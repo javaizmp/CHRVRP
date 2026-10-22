@@ -33,6 +33,14 @@ Code, instances, experiments and manuscript for the CHR-VRP paper. Layout, setup
 - Repository is public on GitHub (account javaizmp). Commit as the GitHub noreply identity (set in this repo's git config).
 - `paper/` is gitignored: the manuscript stays local until accepted. Never force-add it or paste its contents into committed files.
 
+## Copying the project
+- Copying the folder works anywhere (relative paths). `.venv` is the exception: it works when copied on this PC
+  (use `.venv\Scripts\python.exe -m pip`, the pip/activate launchers keep the old path), but not on another PC.
+  There, leave `.venv` out and rebuild it (README "Setup"), or prefer `git clone` and then rebuild `.venv`.
+- `paper/` is not on GitHub. A folder copy is its only backup, so remind the user to include it.
+- Copies share the GitHub remote. When there are several working copies, push/pull before working so they don't diverge.
+- To check a copy: `run_jobs.ps1 -Only 'P1_S1_bp' -RunsDir <temp>\runs` → optimal, obj 117.89.
+
 ## History
 - Migrated on 2026-10-22 from `D:\PhD\Courses\RAM_CHRBEND\Python Implementation`. KPI3 scripts, the 2023 Benders
   experiments (`Final Experiments` etc.), old .tex versions and backups were left there (to be archived) and are not part of this project.
