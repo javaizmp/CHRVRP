@@ -27,8 +27,9 @@ Code, instances, experiments and manuscript for the CHR-VRP paper. Layout, setup
 - No versioned copies (`script_22May.py`, `main_backup_<date>.tex`): edit in place. Use git for history once it is installed.
 - One copy of each instance under `data\instances\`. Don't duplicate instance sets.
 - New experiment campaigns go in `experiments\<yyyy-mm>[_topic]\` with their own make/run scripts.
-- Paper: `paper\main.tex` is the manuscript (formerly `main_corrections_bp.tex`). Figure PDFs sit next to `main.tex`. LaTeX build files are not kept.
-- **Never edit `paper\main.tex` above the line `%%%%%%%JAVAIZ EDITED%%%%%%%`.** That part, including the preamble, has been finalised by the user.
+- Paper: `paper\main.tex` is the manuscript (formerly `main_corrections_bp.tex`). Figure PDFs go in `paper\figures\` (found via `\graphicspath{{figures/}}` in the preamble). LaTeX build files are not kept.
+- **Never edit `paper\main.tex` above the line `%%%%%%%JAVAIZ EDITED%%%%%%%`.** That part, including the preamble, has been finalised by the user
+  (the `\graphicspath` line there was approved by the user and stays).
   Make all edits below the marker. If a change seems to need something above it (a package, a macro, a fix in the intro or abstract),
   ask the user rather than editing it. Before editing, find where the marker is now; the user moves it as more of the paper is finalised.
 - New text in the paper uses `\textcolor{revpink}{...}` (tables: `\color{revpink}` inside the `table` environment), matching the branch-and-price revisions.
