@@ -1,0 +1,71 @@
+Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_Threads                                 6
+CPXPARAM_RandomSeed                              10
+CPXPARAM_TimeLimit                               3600
+Legacy callback                                  LD
+Warning: Control callbacks may disable some MIP features.
+Lazy constraint(s) or lazy constraint/branch callback is present.
+    Disabling dual reductions (CPX_PARAM_REDUCE) in presolve.
+    Disabling presolve reductions that prevent crushing forms (CPX_PARAM_PREREFORM).
+         Disabling repeat represolve because of lazy constraint/incumbent callback.
+Tried aggregator 2 times.
+MIP Presolve eliminated 385 rows and 276 columns.
+MIP Presolve modified 148 coefficients.
+Aggregator did 6 substitutions.
+Reduced MIP has 440 rows, 439 columns, and 2503 nonzeros.
+Reduced MIP has 438 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (3.43 ticks)
+Probing time = 0.00 sec. (2.15 ticks)
+Clique table members: 1262.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: traditional branch-and-cut.
+Parallel mode: deterministic, using up to 6 threads.
+Root relaxation solution time = 0.02 sec. (6.18 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap         Variable B NodeID Parent  Depth
+
+      0     0       98.2471    39                     98.2471      268         
+*     0+    0                          227.9300       98.2471            56.90%
+*     0+    0                          223.4117       98.2471            56.02%
+      0     0  -1.00000e+75     0      223.4117       98.2471      268   56.02%
+      0     2       98.2471    35      223.4117       98.2471      268   56.02%                        0             0
+Elapsed time = 0.08 sec. (83.53 ticks, tree = 0.02 MB, solutions = 2)
+*     3+    3                          220.6344       98.2471            55.47%
+*     3+    1                          212.8047       98.2471            53.83%
+*     5+    1                          208.5390       98.2471            52.89%
+*    19+    3                          200.8010       98.2471            51.07%
+*    33+   11                          197.2954       98.2471            50.20%
+*   359+  198                          191.8120       98.2471            48.78%
+*   411+  189                          153.5681       98.2471            36.02%
+   1071   583      121.9928    29      153.5681       98.2471    13624   36.02%        w_10_109 D   1023   1017     20
+*  2546  1495      integral     0      150.6728       98.2471    35184   34.79%
+*  2613  1524      integral     0      149.5676       98.2471    35963   34.31%
+*  2892  1507      integral     0      146.7683       98.2471    40712   33.06%
+   3122  1558      126.2388    32      146.7683       98.2471    47376   33.06%      x_10_0_106 U   3293   3287     21
+*  3301+ 1582                          146.7257       98.2471            33.04%
+   4773  2432      129.3849    35      146.7257       98.2471    85459   33.04%    x_11_105_100 D   4917   4911     32
+*  5608  2715      integral     0      143.4207       98.2471    98691   31.50%
+*  5897+ 2737                          142.5318       98.2471            31.07%
+   6659  2929      113.0240    47      142.5318       98.2471   120109   31.07%      x_12_1_107 D   6589   6583     43
+*  8330  3371      integral     0      125.9774       99.3560   149286   21.13%
+   8655  1653      108.7802    42      125.9774      100.6867   160689   20.08%      x_11_0_108 D   9407   4726     20
+  11277  1700      125.3230    46      125.9774      108.3477   194480   13.99%        w_12_104 N  12257   4354     24
+  13271  2198        cutoff            125.9774      108.3477   230966   13.99%      x_11_0_103 U  13081  13069     14
+  15652  1936    infeasible            125.9774      115.3255   274385    8.46%        w_10_108 U  16112  11845     21
+* 16471  1901      integral     0      118.9993      115.4924   285365    2.95%
+* 16705   415      integral     0      118.1670      115.4924   287135    2.26%
+
+Implied bound cuts applied:  19
+Gomory fractional cuts applied:  1
+User cuts applied:  311
+
+Root node processing (before b&c):
+  Real time             =    0.08 sec. (83.44 ticks)
+Parallel b&c, 6 threads:
+  Real time             =    2.12 sec. (2007.08 ticks)
+  Sync time (average)   =    0.22 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    2.20 sec. (2090.52 ticks)

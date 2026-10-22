@@ -1,0 +1,3 @@
+﻿### using zxgsec ###
+### using GSEC only, no Benders cuts (D_z-x) ###
+Objective value = 133.73148396839437

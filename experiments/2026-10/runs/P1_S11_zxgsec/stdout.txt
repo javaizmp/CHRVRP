@@ -1,0 +1,7 @@
+Lower Bound 1: Active
+Lower Bound 2: Active
+Lower Bound 3 active (mu=2, kappa=4)
+Lower Bound 4 Active (mu=2)
+### using zxgsec ###
+### using GSEC only, no Benders cuts (D_z-x) ###
+Objective value = 124.77843330997302

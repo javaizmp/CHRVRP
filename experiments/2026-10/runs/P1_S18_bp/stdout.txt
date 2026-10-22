@@ -1,0 +1,1 @@
+instance20S2V4Y6PxLxn27.tsp  status=optimal  obj=113.0004  lb=113.0003  root_lb=113.0003  time=0.33s  nodes=18  cols=433

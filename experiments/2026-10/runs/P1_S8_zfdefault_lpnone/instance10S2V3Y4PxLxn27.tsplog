@@ -1,0 +1,42 @@
+Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_Threads                                 6
+CPXPARAM_RandomSeed                              10
+CPXPARAM_TimeLimit                               3600
+Parallel mode: deterministic, using up to 6 threads for concurrent optimization:
+ * Starting dual Simplex on 1 thread...
+ * Starting Barrier on 4 threads...
+ * Starting primal Simplex on 1 thread...
+Tried aggregator 1 time.
+LP Presolve eliminated 3492 rows and 4023 columns.
+Aggregator did 6 substitutions.
+Reduced LP has 5431 rows, 4792 columns, and 23968 nonzeros.
+Presolve time = 0.01 sec. (13.81 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             0.000000
+Perturbation started.
+Iteration:   101   Dual objective     =             0.000000
+Iteration:   231   Dual objective     =             0.000006
+Iteration:   356   Dual objective     =             0.000251
+Iteration:   503   Dual objective     =             0.000270
+Iteration:   642   Dual objective     =             0.000281
+Iteration:   784   Dual objective     =             0.000337
+Iteration:   917   Dual objective     =             0.000455
+Iteration:  1081   Dual objective     =             0.001216
+Iteration:  1220   Dual objective     =            25.753810
+Iteration:  1341   Dual objective     =            25.864372
+Iteration:  1459   Dual objective     =            25.864378
+Iteration:  1574   Dual objective     =            25.864382
+Iteration:  1672   Dual objective     =            25.864385
+Iteration:  1773   Dual objective     =            25.864392
+Iteration:  1877   Dual objective     =            25.864398
+Iteration:  1989   Dual objective     =            25.864402
+Iteration:  2095   Dual objective     =            25.864405
+Iteration:  2193   Dual objective     =            25.864411
+Iteration:  2291   Dual objective     =            25.864414
+Iteration:  2390   Dual objective     =            25.864418
+Removing perturbation.
+
+Barrier solved model.
+

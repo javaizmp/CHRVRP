@@ -1,0 +1,39 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Solver output (.tsprs/.tsplog/.rs/.bp.json/.lp) is written to the working directory.
+# Inside experiments/ it is the raw result of a run and is kept; anywhere else it is a stray.
+/*.lp
+/*.tsplog
+/*.tsprs
+/*.rs
+/*.bp.json
+/src/**/*.lp
+/src/**/*.tsplog
+/src/**/*.tsprs
+/src/**/*.rs
+/data/**/*.lp
+/data/**/*.tsplog
+/data/**/*.tsprs
+/data/**/*.rs
+/data/**/*.bp.json
+
+# Manuscript is not published in the repository until accepted
+/paper/
+
+# LaTeX build output
+paper/**/*.aux
+paper/**/*.bbl
+paper/**/*.blg
+paper/**/*.log
+paper/**/*.out
+paper/**/*.synctex.gz
+paper/**/*.fls
+paper/**/*.fdb_latexmk
+paper/main.pdf
+paper/notes/*.pdf
+
+# Experiment runner control file
+STOP

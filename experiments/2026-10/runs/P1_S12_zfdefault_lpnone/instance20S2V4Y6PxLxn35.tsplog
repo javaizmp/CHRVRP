@@ -1,0 +1,94 @@
+Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_Threads                                 6
+CPXPARAM_RandomSeed                              10
+CPXPARAM_TimeLimit                               3600
+Parallel mode: deterministic, using up to 6 threads for concurrent optimization:
+ * Starting dual Simplex on 1 thread...
+ * Starting Barrier on 4 threads...
+ * Starting primal Simplex on 1 thread...
+Tried aggregator 1 time.
+LP Presolve eliminated 19320 rows and 21540 columns.
+Aggregator did 8 substitutions.
+Reduced LP has 43208 rows, 40749 columns, and 203756 nonzeros.
+Presolve time = 0.12 sec. (108.82 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             0.000000
+Perturbation started.
+Iteration:   101   Dual objective     =             0.000000
+Iteration:   512   Dual objective     =             0.000007
+Iteration:   860   Dual objective     =             0.000010
+Iteration:  1198   Dual objective     =             0.000013
+Iteration:  1566   Dual objective     =             0.000018
+Iteration:  1898   Dual objective     =             0.000020
+Iteration:  2240   Dual objective     =             0.000024
+Iteration:  2591   Dual objective     =             0.000026
+Iteration:  2950   Dual objective     =             0.000029
+Iteration:  3268   Dual objective     =             0.000031
+Iteration:  3547   Dual objective     =             0.000037
+Iteration:  3856   Dual objective     =             0.000039
+Iteration:  4166   Dual objective     =             0.000040
+Iteration:  4449   Dual objective     =             0.000043
+Iteration:  4727   Dual objective     =             0.000048
+Iteration:  5056   Dual objective     =             0.000057
+Iteration:  5409   Dual objective     =             0.000066
+Iteration:  5723   Dual objective     =             0.000081
+Iteration:  6014   Dual objective     =            17.309949
+Iteration:  6319   Dual objective     =            19.512413
+Iteration:  6710   Dual objective     =            19.581587
+Iteration:  7009   Dual objective     =            20.711848
+Iteration:  7428   Dual objective     =            21.828695
+Iteration:  7754   Dual objective     =            21.828698
+Iteration:  8044   Dual objective     =            21.828699
+Iteration:  8361   Dual objective     =            21.828702
+Iteration:  8615   Dual objective     =            21.828705
+Iteration:  8932   Dual objective     =            21.828707
+Iteration:  9188   Dual objective     =            21.828708
+Iteration:  9463   Dual objective     =            21.828709
+Iteration:  9734   Dual objective     =            21.828710
+Iteration:  9990   Dual objective     =            21.828711
+Iteration: 10261   Dual objective     =            21.828712
+Iteration: 10526   Dual objective     =            21.828712
+Iteration: 10804   Dual objective     =            21.828713
+Iteration: 11063   Dual objective     =            21.828714
+Iteration: 11307   Dual objective     =            21.828715
+Iteration: 11554   Dual objective     =            21.828716
+Iteration: 11819   Dual objective     =            21.828717
+Iteration: 12070   Dual objective     =            21.828717
+Iteration: 12352   Dual objective     =            21.828718
+Iteration: 12632   Dual objective     =            21.828719
+Iteration: 12883   Dual objective     =            21.828720
+Iteration: 13125   Dual objective     =            21.828720
+Iteration: 13388   Dual objective     =            21.828721
+Iteration: 13662   Dual objective     =            21.828722
+Iteration: 13913   Dual objective     =            21.828723
+Iteration: 14177   Dual objective     =            21.828724
+Iteration: 14431   Dual objective     =            21.828724
+Iteration: 14684   Dual objective     =            21.828725
+Iteration: 14925   Dual objective     =            21.828725
+Iteration: 15176   Dual objective     =            21.828726
+Iteration: 15420   Dual objective     =            21.828727
+Iteration: 15672   Dual objective     =            21.828727
+Iteration: 15929   Dual objective     =            21.828728
+Iteration: 16176   Dual objective     =            21.828728
+Iteration: 16445   Dual objective     =            21.828729
+Iteration: 16689   Dual objective     =            21.828730
+Iteration: 16943   Dual objective     =            21.828730
+Iteration: 17188   Dual objective     =            21.828731
+Iteration: 17462   Dual objective     =            21.828732
+Iteration: 17701   Dual objective     =            21.828733
+Iteration: 17966   Dual objective     =            21.828733
+Iteration: 18202   Dual objective     =            21.828734
+Iteration: 18448   Dual objective     =            21.828734
+Iteration: 18724   Dual objective     =            21.828735
+Iteration: 18991   Dual objective     =            21.828736
+Iteration: 19254   Dual objective     =            21.828736
+Iteration: 19528   Dual objective     =            21.828737
+Iteration: 19768   Dual objective     =            21.828737
+Iteration: 20028   Dual objective     =            21.828737
+Elapsed time = 8.75 sec. (10000.15 ticks, 20075 iterations)
+Removing perturbation.
+
+Barrier solved model.
+

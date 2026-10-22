@@ -1,0 +1,1164 @@
+﻿[2026-10-19 12:58] 1/420 P1_S1_bp
+    -> status=optimal obj=117.89178937449016 time=0.86 wall=2s other_cpu=52/52 OTHER_LOAD
+[2026-10-19 12:58] 2/420 P1_S2_bp
+    -> status=optimal obj=120.42412760470937 time=0.31 wall=1s other_cpu=67/67 OTHER_LOAD
+[2026-10-19 12:58] 3/420 P1_S3_bp
+    -> status=optimal obj=124.77534182343125 time=0.34 wall=1s other_cpu=86/86 OTHER_LOAD
+[2026-10-19 12:58] 4/420 P1_S4_bp
+    -> status=optimal obj=118.16695278147724 time=0.31 wall=1s other_cpu=28/28 OTHER_LOAD
+[2026-10-19 12:58] 5/420 P1_S5_bp
+    -> status=optimal obj=119.72170305741687 time=0.42 wall=1s other_cpu=45/45 OTHER_LOAD
+[2026-10-19 12:59] 6/420 P1_S6_bp
+    -> status=optimal obj=112.43681242154457 time=0.31 wall=1s other_cpu=119/119 OTHER_LOAD
+[2026-10-19 12:59] 7/420 P1_S7_bp
+    -> status=optimal obj=119.89481252566853 time=0.31 wall=1s other_cpu=84/84 OTHER_LOAD
+[2026-10-19 12:59] 8/420 P1_S8_bp
+    -> status=optimal obj=118.98143316238645 time=0.32 wall=1s other_cpu=106/106 OTHER_LOAD
+[2026-10-19 12:59] 9/420 P1_S9_bp
+    -> status=optimal obj=116.10098968025926 time=0.30 wall=1s other_cpu=79/79 OTHER_LOAD
+[2026-10-19 12:59] 10/420 P1_S10_bp
+    -> status=optimal obj=109.15706096076012 time=0.31 wall=1s other_cpu=54/54 OTHER_LOAD
+[2026-10-19 12:59] 11/420 P1_S11_bp
+    -> status=optimal obj=124.77843330997301 time=1.92 wall=3s other_cpu=33/33 OTHER_LOAD
+[2026-10-19 12:59] 12/420 P1_S12_bp
+    -> status=optimal obj=133.73148396839434 time=0.38 wall=1s other_cpu=72/72 OTHER_LOAD
+[2026-10-19 12:59] 13/420 P1_S13_bp
+    -> status=optimal obj=125.52834324877944 time=0.47 wall=1s other_cpu=102/102 OTHER_LOAD
+[2026-10-19 12:59] 14/420 P1_S14_bp
+    -> status=optimal obj=128.12645626746794 time=0.34 wall=1s other_cpu=189/189 OTHER_LOAD
+[2026-10-19 12:59] 15/420 P1_S15_bp
+    -> status=optimal obj=119.506890335563 time=0.41 wall=1s other_cpu=62/62 OTHER_LOAD
+[2026-10-19 12:59] 16/420 P1_S16_bp
+    -> status=optimal obj=124.7149346766901 time=0.97 wall=2s other_cpu=63/63 OTHER_LOAD
+[2026-10-19 12:59] 17/420 P1_S17_bp
+    -> status=optimal obj=123.47414653461279 time=0.72 wall=1s other_cpu=74/74 OTHER_LOAD
+[2026-10-19 12:59] 18/420 P1_S18_bp
+    -> status=optimal obj=113.00037848387375 time=0.35 wall=1s other_cpu=162/162 OTHER_LOAD
+[2026-10-19 12:59] 19/420 P1_S19_bp
+    -> status=optimal obj=129.47705868519392 time=0.65 wall=1s other_cpu=73/73 OTHER_LOAD
+[2026-10-19 12:59] 20/420 P1_S20_bp
+    -> status=optimal obj=129.08118575160336 time=0.54 wall=1s other_cpu=97/97 OTHER_LOAD
+[2026-10-19 12:59] 21/420 P2_d30_0_bp
+    -> status=optimal obj=131.78675663822798 time=0.80 wall=1s other_cpu=69/69 OTHER_LOAD
+[2026-10-19 12:59] 22/420 P2_d30_1_bp
+    -> status=optimal obj=115.59118692874321 time=2.45 wall=3s other_cpu=56/56 OTHER_LOAD
+[2026-10-19 12:59] 23/420 P2_d30_2_bp
+    -> status=optimal obj=111.82571914767203 time=4.97 wall=6s other_cpu=105/105 OTHER_LOAD
+[2026-10-19 12:59] 24/420 P2_d30_3_bp
+    -> status=optimal obj=107.12342166595523 time=0.77 wall=1s other_cpu=100/100 OTHER_LOAD
+[2026-10-19 12:59] 25/420 P2_d30_4_bp
+    -> status=optimal obj=134.87767152291707 time=5.91 wall=7s other_cpu=85/85 OTHER_LOAD
+[2026-10-19 12:59] 26/420 P2_d30_5_bp
+    -> status=optimal obj=112.93034194549935 time=5.02 wall=6s other_cpu=65/65 OTHER_LOAD
+[2026-10-19 12:59] 27/420 P2_d30_6_bp
+    -> status=optimal obj=122.20738860199378 time=2.42 wall=3s other_cpu=78/78 OTHER_LOAD
+[2026-10-19 12:59] 28/420 P2_d30_7_bp
+    -> status=optimal obj=117.58385850403923 time=0.55 wall=1s other_cpu=79/79 OTHER_LOAD
+[2026-10-19 12:59] 29/420 P2_d30_8_bp
+    -> status=optimal obj=109.7015522322482 time=0.74 wall=1s other_cpu=73/73 OTHER_LOAD
+[2026-10-19 12:59] 30/420 P2_d30_9_bp
+    -> status=optimal obj=127.73787604435847 time=0.66 wall=1s other_cpu=58/58 OTHER_LOAD
+[2026-10-19 12:59] 31/420 P2_d30_10_bp
+    -> status=optimal obj=135.0044837602241 time=11.37 wall=12s other_cpu=75/75 OTHER_LOAD
+[2026-10-19 13:00] 32/420 P2_d30_11_bp
+    -> status=optimal obj=132.81983540337052 time=1.55 wall=2s other_cpu=160/160 OTHER_LOAD
+[2026-10-19 13:00] 33/420 P2_d30_12_bp
+    -> status=optimal obj=137.22617352693285 time=0.57 wall=1s other_cpu=70/70 OTHER_LOAD
+[2026-10-19 13:00] 34/420 P2_d30_13_bp
+    -> status=optimal obj=119.72451460599254 time=1.03 wall=2s other_cpu=118/118 OTHER_LOAD
+[2026-10-19 13:00] 35/420 P2_d30_14_bp
+    -> status=optimal obj=111.74845231293979 time=0.58 wall=1s other_cpu=128/128 OTHER_LOAD
+[2026-10-19 13:00] 36/420 P2_d30_15_bp
+    -> status=optimal obj=111.09555856195456 time=0.77 wall=1s other_cpu=125/125 OTHER_LOAD
+[2026-10-19 13:00] 37/420 P2_d30_16_bp
+    -> status=optimal obj=126.5708633039733 time=7.52 wall=8s other_cpu=77/77 OTHER_LOAD
+[2026-10-19 13:00] 38/420 P2_d30_17_bp
+    -> status=optimal obj=121.47954927082299 time=0.54 wall=1s other_cpu=140/140 OTHER_LOAD
+[2026-10-19 13:00] 39/420 P2_d30_18_bp
+    -> status=optimal obj=113.03764471169225 time=1.52 wall=2s other_cpu=94/94 OTHER_LOAD
+[2026-10-19 13:00] 40/420 P2_d30_19_bp
+    -> status=optimal obj=118.28455321336166 time=32.76 wall=33s other_cpu=117/173 OTHER_LOAD
+[2026-10-19 13:01] 41/420 P2_d40_0_bp
+    -> status=optimal obj=123.12820712162181 time=27.88 wall=28s other_cpu=83/151 OTHER_LOAD
+[2026-10-19 13:01] 42/420 P2_d40_1_bp
+    -> status=optimal obj=110.54963465038483 time=55.02 wall=56s other_cpu=22.5/54 OTHER_LOAD
+[2026-10-19 13:02] 43/420 P2_d40_2_bp
+    -> status=optimal obj=106.06634549730916 time=16.44 wall=17s other_cpu=13/16 
+[2026-10-19 13:02] 44/420 P2_d40_3_bp
+    -> status=optimal obj=113.77924303123802 time=33.93 wall=35s other_cpu=10.3/21 
+[2026-10-19 13:03] 45/420 P2_d40_4_bp
+    -> status=optimal obj=129.01362181710633 time=6.36 wall=7s other_cpu=22/22 OTHER_LOAD
+[2026-10-19 13:03] 46/420 P2_d40_5_bp
+    -> status=optimal obj=105.35702077472081 time=6.95 wall=8s other_cpu=5/5 
+[2026-10-19 13:03] 47/420 P2_d40_6_bp
+    -> status=optimal obj=116.33398934582016 time=32.16 wall=33s other_cpu=8.3/15 
+[2026-10-19 13:04] 48/420 P2_d40_7_bp
+    -> status=optimal obj=122.37531572523208 time=41.41 wall=42s other_cpu=19/37 OTHER_LOAD
+[2026-10-19 13:04] 49/420 P2_d40_8_bp
+    -> status=optimal obj=111.78604207624697 time=22.11 wall=23s other_cpu=52.5/84 OTHER_LOAD
+[2026-10-19 13:05] 50/420 P2_d40_9_bp
+    -> status=optimal obj=119.2887555639484 time=36.47 wall=37s other_cpu=5/10 
+[2026-10-19 13:05] 51/420 P2_d40_10_bp
+    -> status=optimal obj=126.18422602357494 time=90.80 wall=91s other_cpu=73.3/157 OTHER_LOAD
+[2026-10-19 13:07] 52/420 P2_d40_11_bp
+    -> status=optimal obj=124.9846944411634 time=1.24 wall=2s other_cpu=0/0 
+[2026-10-19 13:07] 53/420 P2_d40_12_bp
+    -> status=optimal obj=123.50621780241168 time=23.18 wall=24s other_cpu=48/96 OTHER_LOAD
+[2026-10-19 13:07] 54/420 P2_d40_13_bp
+    -> status=optimal obj=110.0925291300647 time=2.70 wall=3s other_cpu=72/72 OTHER_LOAD
+[2026-10-19 13:07] 55/420 P2_d40_14_bp
+    -> status=optimal obj=116.63326285449043 time=4.96 wall=6s other_cpu=84/84 OTHER_LOAD
+[2026-10-19 13:08] 56/420 P2_d40_15_bp
+    -> status=optimal obj=106.10146985823188 time=8.67 wall=9s other_cpu=149/149 OTHER_LOAD
+[2026-10-19 13:08] 57/420 P2_d40_16_bp
+    -> status=optimal obj=127.93546975004378 time=43.74 wall=44s other_cpu=122.3/161 OTHER_LOAD
+[2026-10-19 13:08] 58/420 P2_d40_17_bp
+    -> status=optimal obj=112.83259335249409 time=105.61 wall=106s other_cpu=96.7/174 OTHER_LOAD
+[2026-10-19 13:10] 59/420 P2_d40_18_bp
+    -> status=optimal obj=113.70207714731946 time=5.48 wall=6s other_cpu=86/86 OTHER_LOAD
+[2026-10-19 13:10] 60/420 P2_d40_19_bp
+    -> status=optimal obj=118.41656296501083 time=59.66 wall=60s other_cpu=105.8/162 OTHER_LOAD
+[2026-10-19 13:11] 61/420 P1_S1_zxdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=105/105 OTHER_LOAD
+[2026-10-19 13:11] 62/420 P1_S1_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=78/78 OTHER_LOAD
+[2026-10-19 13:11] 63/420 P1_S1_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=139/139 OTHER_LOAD
+[2026-10-19 13:11] 64/420 P1_S1_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=132/132 OTHER_LOAD
+[2026-10-19 13:11] 65/420 P1_S1_zfdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=187/187 OTHER_LOAD
+[2026-10-19 13:11] 66/420 P1_S1_zfdefault_lp1
+    -> status=1 obj= time= wall=1s other_cpu=102/102 OTHER_LOAD
+[2026-10-19 13:11] 67/420 P1_S1_zfdefault_lp2
+    -> status=1 obj= time= wall=1s other_cpu=85/85 OTHER_LOAD
+[2026-10-19 13:12] 68/420 P1_S1_zfdefault_lp3
+    -> status=1 obj= time= wall=1s other_cpu=112/112 OTHER_LOAD
+[2026-10-19 13:12] 69/420 P1_S1_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=60/60 OTHER_LOAD
+[2026-10-19 13:12] 70/420 P1_S1_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=136/136 OTHER_LOAD
+[2026-10-19 13:12] 71/420 P1_S2_zxdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=105/105 OTHER_LOAD
+[2026-10-19 13:12] 72/420 P1_S2_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=48/48 OTHER_LOAD
+[2026-10-19 13:12] 73/420 P1_S2_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=75/75 OTHER_LOAD
+[2026-10-19 13:12] 74/420 P1_S2_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=98/98 OTHER_LOAD
+[2026-10-19 13:12] 75/420 P1_S2_zfdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=106/106 OTHER_LOAD
+[2026-10-19 13:12] 76/420 P1_S2_zfdefault_lp1
+    -> status=1 obj= time= wall=1s other_cpu=90/90 OTHER_LOAD
+[2026-10-19 13:12] 77/420 P1_S2_zfdefault_lp2
+    -> status=1 obj= time= wall=1s other_cpu=73/73 OTHER_LOAD
+[2026-10-19 13:12] 78/420 P1_S2_zfdefault_lp3
+    -> status=1 obj= time= wall=1s other_cpu=170/170 OTHER_LOAD
+[2026-10-19 13:12] 79/420 P1_S2_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=63/63 OTHER_LOAD
+[2026-10-19 13:12] 80/420 P1_S2_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=97/97 OTHER_LOAD
+[2026-10-19 13:12] 81/420 P1_S3_zxdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=111/111 OTHER_LOAD
+[2026-10-19 13:12] 82/420 P1_S3_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=133/133 OTHER_LOAD
+[2026-10-19 13:12] 83/420 P1_S3_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=67/67 OTHER_LOAD
+[2026-10-19 13:12] 84/420 P1_S3_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=75/75 OTHER_LOAD
+[2026-10-19 13:12] 85/420 P1_S3_zfdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=68/68 OTHER_LOAD
+[2026-10-19 13:12] 86/420 P1_S3_zfdefault_lp1
+    -> status=1 obj= time= wall=1s other_cpu=60/60 OTHER_LOAD
+[2026-10-19 13:12] 87/420 P1_S3_zfdefault_lp2
+    -> status=1 obj= time= wall=1s other_cpu=162/162 OTHER_LOAD
+[2026-10-19 13:12] 88/420 P1_S3_zfdefault_lp3
+    -> status=1 obj= time= wall=1s other_cpu=57/57 OTHER_LOAD
+[2026-10-19 13:12] 89/420 P1_S3_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=93/93 OTHER_LOAD
+[2026-10-19 13:12] 90/420 P1_S3_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=169/169 OTHER_LOAD
+[2026-10-19 13:12] 91/420 P1_S4_zxdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=97/97 OTHER_LOAD
+[2026-10-19 13:12] 92/420 P1_S4_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=99/99 OTHER_LOAD
+[2026-10-19 13:12] 93/420 P1_S4_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=114/114 OTHER_LOAD
+[2026-10-19 13:12] 94/420 P1_S4_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=154/154 OTHER_LOAD
+[2026-10-19 13:12] 95/420 P1_S4_zfdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=156/156 OTHER_LOAD
+[2026-10-19 13:12] 96/420 P1_S4_zfdefault_lp1
+    -> status=1 obj= time= wall=1s other_cpu=67/67 OTHER_LOAD
+[2026-10-19 13:12] 97/420 P1_S4_zfdefault_lp2
+    -> status=1 obj= time= wall=1s other_cpu=75/75 OTHER_LOAD
+[2026-10-19 13:12] 98/420 P1_S4_zfdefault_lp3
+    -> status=1 obj= time= wall=1s other_cpu=86/86 OTHER_LOAD
+[2026-10-19 13:12] 99/420 P1_S4_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=117/117 OTHER_LOAD
+[2026-10-19 13:12] 100/420 P1_S4_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=183/183 OTHER_LOAD
+[2026-10-19 13:12] 101/420 P1_S5_zxdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=57/57 OTHER_LOAD
+[2026-10-19 13:12] 102/420 P1_S5_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=114/114 OTHER_LOAD
+[2026-10-19 13:12] 103/420 P1_S5_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=94/94 OTHER_LOAD
+[2026-10-19 13:12] 104/420 P1_S5_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=91/91 OTHER_LOAD
+[2026-10-19 13:12] 105/420 P1_S5_zfdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=106/106 OTHER_LOAD
+[2026-10-19 13:12] 106/420 P1_S5_zfdefault_lp1
+    -> status=1 obj= time= wall=1s other_cpu=122/122 OTHER_LOAD
+[2026-10-19 13:13] 107/420 P1_S5_zfdefault_lp2
+    -> status=1 obj= time= wall=1s other_cpu=84/84 OTHER_LOAD
+[2026-10-19 13:13] 108/420 P1_S5_zfdefault_lp3
+    -> status=1 obj= time= wall=1s other_cpu=81/81 OTHER_LOAD
+[2026-10-19 13:13] 109/420 P1_S5_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=148/148 OTHER_LOAD
+[2026-10-19 13:13] 110/420 P1_S5_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=104/104 OTHER_LOAD
+[2026-10-19 13:13] 111/420 P1_S6_zxdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=84/84 OTHER_LOAD
+[2026-10-19 13:13] 112/420 P1_S6_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=127/127 OTHER_LOAD
+[2026-10-19 13:13] 113/420 P1_S6_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=131/131 OTHER_LOAD
+[2026-10-19 13:13] 114/420 P1_S6_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=110/110 OTHER_LOAD
+[2026-10-19 13:13] 115/420 P1_S6_zfdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=86/86 OTHER_LOAD
+[2026-10-19 13:13] 116/420 P1_S6_zfdefault_lp1
+    -> status=1 obj= time= wall=1s other_cpu=120/120 OTHER_LOAD
+[2026-10-19 13:13] 117/420 P1_S6_zfdefault_lp2
+    -> status=1 obj= time= wall=1s other_cpu=118/118 OTHER_LOAD
+[2026-10-19 13:13] 118/420 P1_S6_zfdefault_lp3
+    -> status=1 obj= time= wall=1s other_cpu=128/128 OTHER_LOAD
+[2026-10-19 13:13] 119/420 P1_S6_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=74/74 OTHER_LOAD
+[2026-10-19 13:13] 120/420 P1_S6_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=124/124 OTHER_LOAD
+[2026-10-19 13:13] 121/420 P1_S7_zxdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=215/215 OTHER_LOAD
+[2026-10-19 13:13] 122/420 P1_S7_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=144/144 OTHER_LOAD
+[2026-10-19 13:13] 123/420 P1_S7_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=133/133 OTHER_LOAD
+[2026-10-19 13:13] 124/420 P1_S7_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=124/124 OTHER_LOAD
+[2026-10-19 13:13] 125/420 P1_S7_zfdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=109/109 OTHER_LOAD
+[2026-10-19 13:13] 126/420 P1_S7_zfdefault_lp1
+    -> status=1 obj= time= wall=1s other_cpu=98/98 OTHER_LOAD
+[2026-10-19 13:13] 127/420 P1_S7_zfdefault_lp2
+    -> status=1 obj= time= wall=1s other_cpu=90/90 OTHER_LOAD
+[2026-10-19 13:13] 128/420 P1_S7_zfdefault_lp3
+    -> status=1 obj= time= wall=1s other_cpu=132/132 OTHER_LOAD
+[2026-10-19 13:13] 129/420 P1_S7_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=110/110 OTHER_LOAD
+[2026-10-19 13:13] 130/420 P1_S7_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=259/259 OTHER_LOAD
+[2026-10-19 13:13] 131/420 P1_S8_zxdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=175/175 OTHER_LOAD
+[2026-10-19 13:13] 132/420 P1_S8_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=141/141 OTHER_LOAD
+[2026-10-19 13:13] 133/420 P1_S8_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=144/144 OTHER_LOAD
+[2026-10-19 13:13] 134/420 P1_S8_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=96/96 OTHER_LOAD
+[2026-10-19 13:13] 135/420 P1_S8_zfdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=27/27 OTHER_LOAD
+[2026-10-19 13:13] 136/420 P1_S8_zfdefault_lp1
+    -> status=1 obj= time= wall=1s other_cpu=101/101 OTHER_LOAD
+[2026-10-19 13:13] 137/420 P1_S8_zfdefault_lp2
+    -> status=1 obj= time= wall=1s other_cpu=113/113 OTHER_LOAD
+[2026-10-19 13:13] 138/420 P1_S8_zfdefault_lp3
+    -> status=1 obj= time= wall=1s other_cpu=109/109 OTHER_LOAD
+[2026-10-19 13:13] 139/420 P1_S8_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=75/75 OTHER_LOAD
+[2026-10-19 13:13] 140/420 P1_S8_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=16/16 OTHER_LOAD
+[2026-10-19 13:13] 141/420 P1_S9_zxdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=0/0 
+[2026-10-19 13:13] 142/420 P1_S9_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=86/86 OTHER_LOAD
+[2026-10-19 13:13] 143/420 P1_S9_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-19 13:13] 144/420 P1_S9_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=51/51 OTHER_LOAD
+[2026-10-19 13:13] 145/420 P1_S9_zfdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=113/113 OTHER_LOAD
+[2026-10-19 13:14] 146/420 P1_S9_zfdefault_lp1
+    -> status=1 obj= time= wall=1s other_cpu=99/99 OTHER_LOAD
+[2026-10-19 13:14] 147/420 P1_S9_zfdefault_lp2
+    -> status=1 obj= time= wall=1s other_cpu=128/128 OTHER_LOAD
+[2026-10-19 13:14] 148/420 P1_S9_zfdefault_lp3
+    -> status=1 obj= time= wall=1s other_cpu=138/138 OTHER_LOAD
+[2026-10-19 13:14] 149/420 P1_S9_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=142/142 OTHER_LOAD
+[2026-10-19 13:14] 150/420 P1_S9_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=138/138 OTHER_LOAD
+[2026-10-19 13:14] 151/420 P1_S10_zxdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=62/62 OTHER_LOAD
+[2026-10-19 13:14] 152/420 P1_S10_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=112/112 OTHER_LOAD
+[2026-10-19 13:14] 153/420 P1_S10_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=113/113 OTHER_LOAD
+[2026-10-19 13:14] 154/420 P1_S10_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=113/113 OTHER_LOAD
+[2026-10-19 13:14] 155/420 P1_S10_zfdefault_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=98/98 OTHER_LOAD
+[2026-10-19 13:14] 156/420 P1_S10_zfdefault_lp1
+    -> status=1 obj= time= wall=1s other_cpu=154/154 OTHER_LOAD
+[2026-10-19 13:14] 157/420 P1_S10_zfdefault_lp2
+    -> status=1 obj= time= wall=1s other_cpu=99/99 OTHER_LOAD
+[2026-10-19 13:14] 158/420 P1_S10_zfdefault_lp3
+    -> status=1 obj= time= wall=1s other_cpu=102/102 OTHER_LOAD
+[2026-10-19 13:14] 159/420 P1_S10_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=38/38 OTHER_LOAD
+[2026-10-19 13:14] 160/420 P1_S10_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=80/80 OTHER_LOAD
+[2026-10-19 13:14] 161/420 P1_S11_zxdefault_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=101/101 OTHER_LOAD
+[2026-10-19 13:14] 162/420 P1_S11_azf_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=129/129 OTHER_LOAD
+[2026-10-19 13:14] 163/420 P1_S11_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=84/84 OTHER_LOAD
+[2026-10-19 13:14] 164/420 P1_S11_azf_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=130/130 OTHER_LOAD
+[2026-10-19 13:14] 165/420 P1_S11_zfdefault_lpnone
+    -> status=1 obj= time= wall=11s other_cpu=49/49 OTHER_LOAD
+[2026-10-19 13:14] 166/420 P1_S11_zfdefault_lp1
+    -> status=1 obj= time= wall=10s other_cpu=54/54 OTHER_LOAD
+[2026-10-19 13:15] 167/420 P1_S11_zfdefault_lp2
+    -> status=1 obj= time= wall=8s other_cpu=82/82 OTHER_LOAD
+[2026-10-19 13:15] 168/420 P1_S11_zfdefault_lp3
+    -> status=1 obj= time= wall=8s other_cpu=95/95 OTHER_LOAD
+[2026-10-19 13:15] 169/420 P1_S11_zfdefault_lp4
+    -> status=1 obj= time= wall=11s other_cpu=10/10 
+[2026-10-19 13:15] 170/420 P1_S11_zfdefault_lp1234
+    -> status=1 obj= time= wall=7s other_cpu=32/32 OTHER_LOAD
+[2026-10-19 13:15] 171/420 P1_S12_zxdefault_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=49/49 OTHER_LOAD
+[2026-10-19 13:15] 172/420 P1_S12_azf_lpnone
+    -> status=1 obj= time= wall=6s other_cpu=57/57 OTHER_LOAD
+[2026-10-19 13:15] 173/420 P1_S12_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=63/63 OTHER_LOAD
+[2026-10-19 13:15] 174/420 P1_S12_azf_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=128/128 OTHER_LOAD
+[2026-10-19 13:16] 175/420 P1_S12_zfdefault_lpnone
+    -> status=1 obj= time= wall=11s other_cpu=140/140 OTHER_LOAD
+[2026-10-19 13:16] 176/420 P1_S12_zfdefault_lp1
+    -> status=1 obj= time= wall=11s other_cpu=76/76 OTHER_LOAD
+[2026-10-19 13:16] 177/420 P1_S12_zfdefault_lp2
+    -> status=1 obj= time= wall=6s other_cpu=81/81 OTHER_LOAD
+[2026-10-19 13:16] 178/420 P1_S12_zfdefault_lp3
+    -> status=1 obj= time= wall=8s other_cpu=85/85 OTHER_LOAD
+[2026-10-19 13:16] 179/420 P1_S12_zfdefault_lp4
+    -> status=1 obj= time= wall=13s other_cpu=49/49 OTHER_LOAD
+[2026-10-19 13:16] 180/420 P1_S12_zfdefault_lp1234
+    -> status=1 obj= time= wall=8s other_cpu=70/70 OTHER_LOAD
+[2026-10-19 13:17] 181/420 P1_S13_zxdefault_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=134/134 OTHER_LOAD
+[2026-10-19 13:17] 182/420 P1_S13_azf_lpnone
+    -> status=1 obj= time= wall=6s other_cpu=85/85 OTHER_LOAD
+[2026-10-19 13:17] 183/420 P1_S13_zxdefault_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=98/98 OTHER_LOAD
+[2026-10-19 13:17] 184/420 P1_S13_azf_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=109/109 OTHER_LOAD
+[2026-10-19 13:17] 185/420 P1_S13_zfdefault_lpnone
+    -> status=1 obj= time= wall=11s other_cpu=140/140 OTHER_LOAD
+[2026-10-19 13:17] 186/420 P1_S13_zfdefault_lp1
+    -> status=1 obj= time= wall=11s other_cpu=58/58 OTHER_LOAD
+[2026-10-19 13:17] 187/420 P1_S13_zfdefault_lp2
+    -> status=1 obj= time= wall=7s other_cpu=70/70 OTHER_LOAD
+[2026-10-19 13:17] 188/420 P1_S13_zfdefault_lp3
+    -> status=1 obj= time= wall=8s other_cpu=93/93 OTHER_LOAD
+[2026-10-19 13:18] 189/420 P1_S13_zfdefault_lp4
+    -> status=1 obj= time= wall=12s other_cpu=84/84 OTHER_LOAD
+[2026-10-19 13:18] 190/420 P1_S13_zfdefault_lp1234
+    -> status=1 obj= time= wall=7s other_cpu=120/120 OTHER_LOAD
+[2026-10-19 13:18] 191/420 P1_S14_zxdefault_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=72/72 OTHER_LOAD
+[2026-10-19 13:18] 192/420 P1_S14_azf_lpnone
+    -> status=1 obj= time= wall=6s other_cpu=54/54 OTHER_LOAD
+[2026-10-19 13:18] 193/420 P1_S14_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=102/102 OTHER_LOAD
+[2026-10-19 13:18] 194/420 P1_S14_azf_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=51/51 OTHER_LOAD
+[2026-10-19 13:18] 195/420 P1_S14_zfdefault_lpnone
+    -> status=1 obj= time= wall=11s other_cpu=106/106 OTHER_LOAD
+[2026-10-19 13:19] 196/420 P1_S14_zfdefault_lp1
+    -> status=1 obj= time= wall=11s other_cpu=25/25 OTHER_LOAD
+[2026-10-19 13:19] 197/420 P1_S14_zfdefault_lp2
+    -> status=1 obj= time= wall=8s other_cpu=86/86 OTHER_LOAD
+[2026-10-19 13:19] 198/420 P1_S14_zfdefault_lp3
+    -> status=1 obj= time= wall=6s other_cpu=103/103 OTHER_LOAD
+[2026-10-19 13:19] 199/420 P1_S14_zfdefault_lp4
+    -> status=1 obj= time= wall=11s other_cpu=111/111 OTHER_LOAD
+[2026-10-19 13:19] 200/420 P1_S14_zfdefault_lp1234
+    -> status=1 obj= time= wall=9s other_cpu=34/34 OTHER_LOAD
+[2026-10-19 13:19] 201/420 P1_S15_zxdefault_lpnone
+    -> status=1 obj= time= wall=6s other_cpu=68/68 OTHER_LOAD
+[2026-10-19 13:19] 202/420 P1_S15_azf_lpnone
+    -> status=1 obj= time= wall=6s other_cpu=224/224 OTHER_LOAD
+[2026-10-19 13:20] 203/420 P1_S15_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=87/87 OTHER_LOAD
+[2026-10-19 13:20] 204/420 P1_S15_azf_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=86/86 OTHER_LOAD
+[2026-10-19 13:20] 205/420 P1_S15_zfdefault_lpnone
+    -> status=1 obj= time= wall=12s other_cpu=91/91 OTHER_LOAD
+[2026-10-19 13:20] 206/420 P1_S15_zfdefault_lp1
+    -> status=1 obj= time= wall=15s other_cpu=135/135 OTHER_LOAD
+[2026-10-19 13:20] 207/420 P1_S15_zfdefault_lp2
+    -> status=1 obj= time= wall=8s other_cpu=73/73 OTHER_LOAD
+[2026-10-19 13:20] 208/420 P1_S15_zfdefault_lp3
+    -> status=1 obj= time= wall=8s other_cpu=117/117 OTHER_LOAD
+[2026-10-19 13:20] 209/420 P1_S15_zfdefault_lp4
+    -> status=1 obj= time= wall=13s other_cpu=89/89 OTHER_LOAD
+[2026-10-19 13:21] 210/420 P1_S15_zfdefault_lp1234
+    -> status=1 obj= time= wall=8s other_cpu=110/110 OTHER_LOAD
+[2026-10-19 13:21] 211/420 P1_S16_zxdefault_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=143/143 OTHER_LOAD
+[2026-10-19 13:21] 212/420 P1_S16_azf_lpnone
+    -> status=1 obj= time= wall=6s other_cpu=77/77 OTHER_LOAD
+[2026-10-19 13:21] 213/420 P1_S16_zxdefault_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=51/51 OTHER_LOAD
+[2026-10-19 13:21] 214/420 P1_S16_azf_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=75/75 OTHER_LOAD
+[2026-10-19 13:21] 215/420 P1_S16_zfdefault_lpnone
+    -> status=1 obj= time= wall=12s other_cpu=50/50 OTHER_LOAD
+[2026-10-19 13:21] 216/420 P1_S16_zfdefault_lp1
+    -> status=1 obj= time= wall=11s other_cpu=96/96 OTHER_LOAD
+[2026-10-19 13:22] 217/420 P1_S16_zfdefault_lp2
+    -> status=1 obj= time= wall=7s other_cpu=111/111 OTHER_LOAD
+[2026-10-19 13:22] 218/420 P1_S16_zfdefault_lp3
+    -> status=1 obj= time= wall=8s other_cpu=21/21 OTHER_LOAD
+[2026-10-19 13:22] 219/420 P1_S16_zfdefault_lp4
+    -> status=1 obj= time= wall=11s other_cpu=118/118 OTHER_LOAD
+[2026-10-19 13:22] 220/420 P1_S16_zfdefault_lp1234
+    -> status=1 obj= time= wall=9s other_cpu=84/84 OTHER_LOAD
+[2026-10-19 13:22] 221/420 P1_S17_zxdefault_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=74/74 OTHER_LOAD
+[2026-10-19 13:22] 222/420 P1_S17_azf_lpnone
+    -> status=1 obj= time= wall=4s other_cpu=167/167 OTHER_LOAD
+[2026-10-19 13:22] 223/420 P1_S17_zxdefault_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=171/171 OTHER_LOAD
+[2026-10-19 13:22] 224/420 P1_S17_azf_lp1234
+    -> status=1 obj= time= wall=4s other_cpu=78/78 OTHER_LOAD
+[2026-10-19 13:23] 225/420 P1_S17_zfdefault_lpnone
+    -> status=1 obj= time= wall=11s other_cpu=148/148 OTHER_LOAD
+[2026-10-19 13:23] 226/420 P1_S17_zfdefault_lp1
+    -> status=1 obj= time= wall=10s other_cpu=22/22 OTHER_LOAD
+[2026-10-19 13:23] 227/420 P1_S17_zfdefault_lp2
+    -> status=1 obj= time= wall=8s other_cpu=102/102 OTHER_LOAD
+[2026-10-19 13:23] 228/420 P1_S17_zfdefault_lp3
+    -> status=1 obj= time= wall=7s other_cpu=34/34 OTHER_LOAD
+[2026-10-19 13:23] 229/420 P1_S17_zfdefault_lp4
+    -> status=1 obj= time= wall=11s other_cpu=5/5 
+[2026-10-19 13:23] 230/420 P1_S17_zfdefault_lp1234
+    -> status=1 obj= time= wall=8s other_cpu=60/60 OTHER_LOAD
+[2026-10-19 13:24] 231/420 P1_S18_zxdefault_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=73/73 OTHER_LOAD
+[2026-10-19 13:24] 232/420 P1_S18_azf_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=53/53 OTHER_LOAD
+[2026-10-19 13:24] 233/420 P1_S18_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=91/91 OTHER_LOAD
+[2026-10-19 13:24] 234/420 P1_S18_azf_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=40/40 OTHER_LOAD
+[2026-10-19 13:24] 235/420 P1_S18_zfdefault_lpnone
+    -> status=1 obj= time= wall=11s other_cpu=72/72 OTHER_LOAD
+[2026-10-19 13:24] 236/420 P1_S18_zfdefault_lp1
+    -> status=1 obj= time= wall=11s other_cpu=72/72 OTHER_LOAD
+[2026-10-19 13:24] 237/420 P1_S18_zfdefault_lp2
+    -> status=1 obj= time= wall=7s other_cpu=63/63 OTHER_LOAD
+[2026-10-19 13:24] 238/420 P1_S18_zfdefault_lp3
+    -> status=1 obj= time= wall=8s other_cpu=63/63 OTHER_LOAD
+[2026-10-19 13:25] 239/420 P1_S18_zfdefault_lp4
+    -> status=1 obj= time= wall=14s other_cpu=68/68 OTHER_LOAD
+[2026-10-19 13:25] 240/420 P1_S18_zfdefault_lp1234
+    -> status=1 obj= time= wall=8s other_cpu=74/74 OTHER_LOAD
+[2026-10-19 13:25] 241/420 P1_S19_zxdefault_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=56/56 OTHER_LOAD
+[2026-10-19 13:25] 242/420 P1_S19_azf_lpnone
+    -> status=1 obj= time= wall=6s other_cpu=146/146 OTHER_LOAD
+[2026-10-19 13:25] 243/420 P1_S19_zxdefault_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=22/22 OTHER_LOAD
+[2026-10-19 13:25] 244/420 P1_S19_azf_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=127/127 OTHER_LOAD
+[2026-10-19 13:25] 245/420 P1_S19_zfdefault_lpnone
+    -> status=1 obj= time= wall=10s other_cpu=119/119 OTHER_LOAD
+[2026-10-19 13:25] 246/420 P1_S19_zfdefault_lp1
+    -> status=1 obj= time= wall=10s other_cpu=79/79 OTHER_LOAD
+[2026-10-19 13:26] 247/420 P1_S19_zfdefault_lp2
+    -> status=1 obj= time= wall=6s other_cpu=43/43 OTHER_LOAD
+[2026-10-19 13:26] 248/420 P1_S19_zfdefault_lp3
+    -> status=1 obj= time= wall=9s other_cpu=127/127 OTHER_LOAD
+[2026-10-19 13:26] 249/420 P1_S19_zfdefault_lp4
+    -> status=1 obj= time= wall=13s other_cpu=58/58 OTHER_LOAD
+[2026-10-19 13:26] 250/420 P1_S19_zfdefault_lp1234
+    -> status=1 obj= time= wall=9s other_cpu=212/212 OTHER_LOAD
+[2026-10-19 13:26] 251/420 P1_S20_zxdefault_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=103/103 OTHER_LOAD
+[2026-10-19 13:26] 252/420 P1_S20_azf_lpnone
+    -> status=1 obj= time= wall=5s other_cpu=153/153 OTHER_LOAD
+[2026-10-19 13:26] 253/420 P1_S20_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=207/207 OTHER_LOAD
+[2026-10-19 13:27] 254/420 P1_S20_azf_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=91/91 OTHER_LOAD
+[2026-10-19 13:27] 255/420 P1_S20_zfdefault_lpnone
+    -> status=1 obj= time= wall=12s other_cpu=63/63 OTHER_LOAD
+[2026-10-19 13:27] 256/420 P1_S20_zfdefault_lp1
+    -> status=1 obj= time= wall=12s other_cpu=96/96 OTHER_LOAD
+[2026-10-19 13:27] 257/420 P1_S20_zfdefault_lp2
+    -> status=1 obj= time= wall=8s other_cpu=79/79 OTHER_LOAD
+[2026-10-19 13:27] 258/420 P1_S20_zfdefault_lp3
+    -> status=1 obj= time= wall=9s other_cpu=176/176 OTHER_LOAD
+[2026-10-19 13:27] 259/420 P1_S20_zfdefault_lp4
+    -> status=1 obj= time= wall=12s other_cpu=103/103 OTHER_LOAD
+[2026-10-19 13:28] 260/420 P1_S20_zfdefault_lp1234
+    -> status=1 obj= time= wall=7s other_cpu=131/131 OTHER_LOAD
+[2026-10-19 13:28] 261/420 P1_S1_zxgsec
+    -> status=101 obj=117.89 time=0.26 wall=1s other_cpu=85/85 OTHER_LOAD
+[2026-10-19 13:28] 262/420 P1_S2_zxgsec
+    -> status=101 obj=120.42 time=0.17 wall=1s other_cpu=56/56 OTHER_LOAD
+[2026-10-19 13:28] 263/420 P1_S3_zxgsec
+    -> status=101 obj=124.78 time=0.17 wall=1s other_cpu=116/116 OTHER_LOAD
+[2026-10-19 13:28] 264/420 P1_S4_zxgsec
+    -> status=102 obj=118.17 time=0.17 wall=1s other_cpu=85/85 OTHER_LOAD
+[2026-10-19 13:28] 265/420 P1_S5_zxgsec
+    -> status=102 obj=119.72 time=0.23 wall=1s other_cpu=75/75 OTHER_LOAD
+[2026-10-19 13:28] 266/420 P1_S6_zxgsec
+    -> status=101 obj=112.44 time=0.31 wall=1s other_cpu=69/69 OTHER_LOAD
+[2026-10-19 13:28] 267/420 P1_S7_zxgsec
+    -> status=101 obj=119.89 time=0.21 wall=1s other_cpu=85/85 OTHER_LOAD
+[2026-10-19 13:28] 268/420 P1_S8_zxgsec
+    -> status=101 obj=118.98 time=0.17 wall=1s other_cpu=138/138 OTHER_LOAD
+[2026-10-19 13:28] 269/420 P1_S9_zxgsec
+    -> status=101 obj=116.1 time=0.2 wall=1s other_cpu=102/102 OTHER_LOAD
+[2026-10-19 13:28] 270/420 P1_S10_zxgsec
+    -> status=101 obj=109.16 time=0.2 wall=1s other_cpu=84/84 OTHER_LOAD
+[2026-10-19 13:28] 271/420 P1_S11_zxgsec
+    -> status=102 obj=124.78 time=17.79 wall=19s other_cpu=69/83 OTHER_LOAD
+[2026-10-19 13:28] 272/420 P1_S12_zxgsec
+    -> status=102 obj=133.73 time=5.7 wall=7s other_cpu=34/34 OTHER_LOAD
+[2026-10-19 13:28] 273/420 P1_S13_zxgsec
+    -> status=102 obj=125.53 time=9.42 wall=10s other_cpu=96/96 OTHER_LOAD
+[2026-10-19 13:29] 274/420 P1_S14_zxgsec
+    -> status=101 obj=128.13 time=1.34 wall=2s other_cpu=163/163 OTHER_LOAD
+[2026-10-19 13:29] 275/420 P1_S15_zxgsec
+    -> status=102 obj=119.51 time=6.63 wall=8s other_cpu=114/114 OTHER_LOAD
+[2026-10-19 13:29] 276/420 P1_S16_zxgsec
+    -> status=102 obj=124.71 time=13.44 wall=14s other_cpu=107/107 OTHER_LOAD
+[2026-10-19 13:29] 277/420 P1_S17_zxgsec
+    -> status=102 obj=123.47 time=46.09 wall=47s other_cpu=56/120 OTHER_LOAD
+[2026-10-19 13:30] 278/420 P1_S18_zxgsec
+    -> status=101 obj=113.0 time=2.36 wall=3s other_cpu=21/21 OTHER_LOAD
+[2026-10-19 13:30] 279/420 P1_S19_zxgsec
+    -> status=102 obj=129.48 time=30.27 wall=31s other_cpu=8.3/15 
+[2026-10-19 13:30] 280/420 P1_S20_zxgsec
+    -> status=101 obj=129.08 time=7.18 wall=8s other_cpu=10/10 
+[2026-10-19 13:30] 281/420 P1_S1_zxdefault
+    -> status=101 obj=117.89 time=0.8 wall=2s other_cpu=76/76 OTHER_LOAD
+[2026-10-19 13:30] 282/420 P1_S2_zxdefault
+    -> status=101 obj=120.42 time=0.78 wall=2s other_cpu=87/87 OTHER_LOAD
+[2026-10-19 13:31] 283/420 P1_S3_zxdefault
+    -> status=101 obj=124.78 time=0.94 wall=2s other_cpu=68/68 OTHER_LOAD
+[2026-10-19 13:31] 284/420 P1_S4_zxdefault
+    -> status=102 obj=118.17 time=0.8 wall=2s other_cpu=54/54 OTHER_LOAD
+[2026-10-19 13:31] 285/420 P1_S5_zxdefault
+    -> status=101 obj=119.72 time=2.15 wall=3s other_cpu=122/122 OTHER_LOAD
+[2026-10-19 13:31] 286/420 P1_S6_zxdefault
+    -> status=101 obj=112.44 time=2.03 wall=3s other_cpu=96/96 OTHER_LOAD
+[2026-10-19 13:31] 287/420 P1_S7_zxdefault
+    -> status=101 obj=119.89 time=1.02 wall=2s other_cpu=94/94 OTHER_LOAD
+[2026-10-19 13:31] 288/420 P1_S8_zxdefault
+    -> status=101 obj=118.98 time=0.9 wall=2s other_cpu=89/89 OTHER_LOAD
+[2026-10-19 13:31] 289/420 P1_S9_zxdefault
+    -> status=101 obj=116.1 time=1.6 wall=3s other_cpu=101/101 OTHER_LOAD
+[2026-10-19 13:31] 290/420 P1_S10_zxdefault
+    -> status=101 obj=109.16 time=0.75 wall=2s other_cpu=94/94 OTHER_LOAD
+[2026-10-19 13:31] 291/420 P1_S11_zxdefault
+    -> status=102 obj=124.78 time=1325.98 wall=1,328s other_cpu=37.1/149 OTHER_LOAD
+[2026-10-19 13:53] 292/420 P1_S12_zxdefault
+    -> status=101 obj=133.73 time=368.27 wall=371s other_cpu=54/148 OTHER_LOAD
+[2026-10-19 13:59] 293/420 P1_S13_zxdefault
+    -> status=101 obj=125.53 time=796.14 wall=798s other_cpu=31.4/140 OTHER_LOAD
+[2026-10-19 14:13] 294/420 P1_S14_zxdefault
+    -> status=101 obj=128.13 time=94.09 wall=96s other_cpu=24/55 OTHER_LOAD
+[2026-10-19 14:14] 295/420 P1_S15_zxdefault
+    -> status=102 obj=119.51 time=641.76 wall=644s other_cpu=45.5/222 OTHER_LOAD
+[2026-10-19 14:25] 296/420 P1_S16_zxdefault
+    -> status=101 obj=124.71 time=1603.01 wall=1,605s other_cpu=30.3/172 OTHER_LOAD
+[2026-10-19 14:52] 297/420 P1_S17_zxdefault
+    -> status=102 obj=123.47 time=1646.12 wall=1,648s other_cpu=26.3/164 OTHER_LOAD
+[2026-10-19 15:19] 298/420 P1_S18_zxdefault
+    -> status=101 obj=113.0 time=499.32 wall=501s other_cpu=24.1/96 OTHER_LOAD
+[2026-10-19 15:27] 299/420 P1_S19_zxdefault
+    -> status=102 obj=129.48 time=1298.77 wall=1,301s other_cpu=43.5/270 OTHER_LOAD
+[2026-10-19 15:49] 300/420 P1_S20_zxdefault
+    -> status=101 obj=129.08 time=730.81 wall=733s other_cpu=38.5/125 OTHER_LOAD
+[2026-10-19 16:01] 301/420 P2_d30_0_zxgsec
+    -> status=107 obj=131.79 time=3600.97 wall=3,627s other_cpu=77.8/184 OTHER_LOAD
+[2026-10-19 17:02] 302/420 P2_d30_1_zxgsec
+    -> status=102 obj=115.59 time=1129.52 wall=1,131s other_cpu=73.4/142 OTHER_LOAD
+[2026-10-19 17:21] 303/420 P2_d30_2_zxgsec
+    -> status=102 obj=111.83 time=292.49 wall=294s other_cpu=36.2/117 OTHER_LOAD
+[2026-10-19 17:26] 304/420 P2_d30_3_zxgsec
+    -> status=102 obj=107.12 time=192.98 wall=194s other_cpu=56.8/131 OTHER_LOAD
+[2026-10-19 17:29] 305/420 P2_d30_4_zxgsec
+    -> status=107 obj=134.88 time=3603.38 wall=3,648s other_cpu=73/261 OTHER_LOAD
+[2026-10-19 18:30] 306/420 P2_d30_5_zxgsec
+    -> status=102 obj=112.93 time=1710.31 wall=1,712s other_cpu=74.5/269 OTHER_LOAD
+[2026-10-19 18:58] 307/420 P2_d30_6_zxgsec
+    -> status=102 obj=122.21 time=399.94 wall=401s other_cpu=39.8/136 OTHER_LOAD
+[2026-10-19 19:05] 308/420 P2_d30_7_zxgsec
+    -> status=102 obj=117.58 time=144.28 wall=145s other_cpu=23.6/61 OTHER_LOAD
+[2026-10-19 19:07] 309/420 P2_d30_8_zxgsec
+    -> status=102 obj=109.7 time=20.66 wall=22s other_cpu=33.5/62 OTHER_LOAD
+[2026-10-19 19:08] 310/420 P2_d30_9_zxgsec
+    -> status=102 obj=127.74 time=41.57 wall=43s other_cpu=80.3/119 OTHER_LOAD
+[2026-10-19 19:08] 311/420 P2_d30_10_zxgsec
+    -> status=107 obj=140.74 time=3604.13 wall=3,650s other_cpu=19.4/173 OTHER_LOAD
+[2026-10-19 20:09] 312/420 P2_d30_11_zxgsec
+    -> status=107 obj=132.82 time=3603.31 wall=3,648s other_cpu=17.1/256 OTHER_LOAD
+[2026-10-19 21:10] 313/420 P2_d30_12_zxgsec
+    -> status=102 obj=137.23 time=505.74 wall=507s other_cpu=13.7/54 
+[2026-10-19 21:18] 314/420 P2_d30_13_zxgsec
+    -> status=102 obj=119.72 time=386.26 wall=387s other_cpu=16.3/70 OTHER_LOAD
+[2026-10-19 21:25] 315/420 P2_d30_14_zxgsec
+    -> status=102 obj=111.75 time=228.8 wall=230s other_cpu=23.3/90 OTHER_LOAD
+[2026-10-19 21:29] 316/420 P2_d30_15_zxgsec
+    -> status=102 obj=111.1 time=2300.74 wall=2,302s other_cpu=16.3/111 OTHER_LOAD
+[2026-10-19 22:07] 317/420 P2_d30_16_zxgsec
+    -> status=107 obj=126.57 time=3603.92 wall=3,653s other_cpu=14.4/197 OTHER_LOAD
+[2026-10-19 23:08] 318/420 P2_d30_17_zxgsec
+    -> status=102 obj=121.48 time=323.01 wall=324s other_cpu=17.5/52 OTHER_LOAD
+[2026-10-19 23:13] 319/420 P2_d30_18_zxgsec
+    -> status=102 obj=113.04 time=244.08 wall=245s other_cpu=15.9/59 OTHER_LOAD
+[2026-10-19 23:18] 320/420 P2_d30_19_zxgsec
+    -> status=107 obj=118.28 time=3600.97 wall=3,627s other_cpu=19.2/186 OTHER_LOAD
+[2026-10-20 00:18] 321/420 P2_d40_0_zxgsec
+    -> status=107 obj=123.31 time=3603.26 wall=3,633s other_cpu=17.9/175 OTHER_LOAD
+[2026-10-20 01:19] 322/420 P2_d40_1_zxgsec
+    -> status=107 obj=133.96 time=3603.21 wall=3,625s other_cpu=15.7/208 OTHER_LOAD
+[2026-10-20 02:19] 323/420 P2_d40_2_zxgsec
+    -> status=107 obj=106.07 time=3603.43 wall=3,635s other_cpu=13.5/182 OTHER_LOAD
+[2026-10-20 03:20] 324/420 P2_d40_3_zxgsec
+    -> status=107 obj=114.01 time=3602.83 wall=3,632s other_cpu=16.3/318 OTHER_LOAD
+[2026-10-20 04:20] 325/420 P2_d40_4_zxgsec
+    -> status=107 obj=142.52 time=3602.55 wall=3,621s other_cpu=15.5/121 OTHER_LOAD
+[2026-10-20 05:20] 326/420 P2_d40_5_zxgsec
+    -> status=107 obj=106.09 time=3602.51 wall=3,626s other_cpu=31.2/184 OTHER_LOAD
+[2026-10-20 06:21] 327/420 P2_d40_6_zxgsec
+    -> status=107 obj=116.33 time=3603.24 wall=3,629s other_cpu=16.5/164 OTHER_LOAD
+[2026-10-20 07:21] 328/420 P2_d40_7_zxgsec
+    -> status=107 obj=124.81 time=3603.33 wall=3,629s other_cpu=21.8/196 OTHER_LOAD
+[2026-10-20 08:22] 329/420 P2_d40_8_zxgsec
+    -> status=107 obj=120.11 time=3615.09 wall=3,640s other_cpu=28.9/391 OTHER_LOAD
+[2026-10-20 09:23] 330/420 P2_d40_9_zxgsec
+    -> status=107 obj=122.58 time=3602.7 wall=3,627s other_cpu=15/326 OTHER_LOAD
+[2026-10-20 10:23] 331/420 P2_d40_10_zxgsec
+    -> status=107 obj=194.76 time=3609.06 wall=3,625s other_cpu=12.7/133 OTHER_LOAD
+[2026-10-20 11:23] 332/420 P2_d40_11_zxgsec
+    -> status=107 obj=131.41 time=3603.97 wall=3,629s other_cpu=15.6/219 OTHER_LOAD
+[2026-10-20 12:24] 333/420 P2_d40_12_zxgsec
+    -> status=107 obj=137.24 time=3604.16 wall=3,636s other_cpu=17.6/510 OTHER_LOAD
+[2026-10-20 13:24] 334/420 P2_d40_13_zxgsec
+    -> status=107 obj=111.57 time=3603.16 wall=3,625s other_cpu=17.7/218 OTHER_LOAD
+[2026-10-20 14:25] 335/420 P2_d40_14_zxgsec
+    -> status=107 obj=135.3 time=3603.19 wall=3,622s other_cpu=15.5/148 OTHER_LOAD
+[2026-10-20 15:25] 336/420 P2_d40_15_zxgsec
+    -> status=107 obj=110.51 time=3603.6 wall=3,638s other_cpu=18.5/215 OTHER_LOAD
+[2026-10-20 16:26] 337/420 P2_d40_16_zxgsec
+    -> status=107 obj=132.56 time=3604.1 wall=3,631s other_cpu=17/188 OTHER_LOAD
+[2026-10-20 17:26] 338/420 P2_d40_17_zxgsec
+    -> status=107 obj=132.67 time=3602.83 wall=3,620s other_cpu=18.6/549 OTHER_LOAD
+[2026-10-20 18:27] 339/420 P2_d40_18_zxgsec
+    -> status=107 obj=113.7 time=3601.99 wall=3,623s other_cpu=19.5/111 OTHER_LOAD
+[2026-10-20 19:27] 340/420 P2_d40_19_zxgsec
+    -> status=107 obj=119.97 time=3603.73 wall=3,632s other_cpu=16.1/181 OTHER_LOAD
+[2026-10-20 20:28] 341/420 P1_S1_zftbend
+    -> status=102 obj=117.89 time=4.2 wall=5s other_cpu=5/5 
+[2026-10-20 20:28] 342/420 P1_S2_zftbend
+    -> status=102 obj=120.42 time=3.76 wall=5s other_cpu=21/21 OTHER_LOAD
+[2026-10-20 20:28] 343/420 P1_S3_zftbend
+    -> status=102 obj=124.78 time=1.84 wall=3s other_cpu=5/5 
+[2026-10-20 20:28] 344/420 P1_S4_zftbend
+    -> status=101 obj=118.17 time=2.21 wall=3s other_cpu=21/21 OTHER_LOAD
+[2026-10-20 20:28] 345/420 P1_S5_zftbend
+    -> status=102 obj=119.72 time=3.32 wall=4s other_cpu=0/0 
+[2026-10-20 20:28] 346/420 P1_S6_zftbend
+    -> status=102 obj=112.44 time=3.52 wall=4s other_cpu=16/16 OTHER_LOAD
+[2026-10-20 20:28] 347/420 P1_S7_zftbend
+    -> status=102 obj=119.89 time=2.56 wall=3s other_cpu=0/0 
+[2026-10-20 20:28] 348/420 P1_S8_zftbend
+    -> status=102 obj=118.98 time=1.97 wall=3s other_cpu=0/0 
+[2026-10-20 20:28] 349/420 P1_S9_zftbend
+    -> status=101 obj=116.1 time=2.12 wall=3s other_cpu=0/0 
+[2026-10-20 20:28] 350/420 P1_S10_zftbend
+    -> status=102 obj=109.16 time=2.47 wall=3s other_cpu=18/18 OTHER_LOAD
+[2026-10-20 20:28] 351/420 P1_S11_zftbend
+    -> status=107 obj=187.58 time=3603.55 wall=3,635s other_cpu=17/471 OTHER_LOAD
+[2026-10-20 21:29] 352/420 P1_S12_zftbend
+    -> status=107 obj=210.12 time=3602.2 wall=3,625s other_cpu=16.7/129 OTHER_LOAD
+[2026-10-20 22:29] 353/420 P1_S13_zftbend
+    -> status=107 obj=183.59 time=3601.44 wall=3,628s other_cpu=16.5/605 OTHER_LOAD
+[2026-10-20 23:30] 354/420 P1_S14_zftbend
+    -> status=107 obj=200.44 time=3601.33 wall=3,622s other_cpu=15.2/97 OTHER_LOAD
+[2026-10-21 00:30] 355/420 P1_S15_zftbend
+    -> status=107 obj=164.23 time=3603.45 wall=3,642s other_cpu=14.3/127 OTHER_LOAD
+[2026-10-21 01:31] 356/420 P1_S16_zftbend
+    -> status=107 obj=168.17 time=3602.88 wall=3,631s other_cpu=15.5/123 OTHER_LOAD
+[2026-10-21 02:31] 357/420 P1_S17_zftbend
+    -> status=107 obj=173.1 time=3602.18 wall=3,625s other_cpu=16.3/265 OTHER_LOAD
+[2026-10-21 03:32] 358/420 P1_S18_zftbend
+    -> status=107 obj=176.59 time=3601.92 wall=3,616s other_cpu=19.2/267 OTHER_LOAD
+[2026-10-21 04:32] 359/420 P1_S19_zftbend
+    -> status=107 obj=182.13 time=3600.11 wall=3,601s other_cpu=16.8/119 OTHER_LOAD
+[2026-10-21 05:32] 360/420 P1_S20_zftbend
+    -> status=107 obj=173.59 time=3603.28 wall=3,640s other_cpu=14.7/117 OTHER_LOAD
+[2026-10-21 06:33] 361/420 P1_S1_zftbend_nobeta
+    -> status=101 obj=117.89 time=1.9 wall=3s other_cpu=243/243 OTHER_LOAD
+[2026-10-21 06:33] 362/420 P1_S2_zftbend_nobeta
+    -> status=101 obj=120.42 time=3.21 wall=4s other_cpu=43/43 OTHER_LOAD
+[2026-10-21 06:33] 363/420 P1_S3_zftbend_nobeta
+    -> status=101 obj=124.78 time=2.33 wall=3s other_cpu=172/172 OTHER_LOAD
+[2026-10-21 06:33] 364/420 P1_S4_zftbend_nobeta
+    -> status=101 obj=118.17 time=1.77 wall=3s other_cpu=145/145 OTHER_LOAD
+[2026-10-21 06:33] 365/420 P1_S5_zftbend_nobeta
+    -> status=102 obj=119.72 time=3.15 wall=4s other_cpu=145/145 OTHER_LOAD
+[2026-10-21 06:33] 366/420 P1_S6_zftbend_nobeta
+    -> status=101 obj=112.44 time=4.02 wall=5s other_cpu=165/165 OTHER_LOAD
+[2026-10-21 06:33] 367/420 P1_S7_zftbend_nobeta
+    -> status=102 obj=119.89 time=4.29 wall=5s other_cpu=202/202 OTHER_LOAD
+[2026-10-21 06:33] 368/420 P1_S8_zftbend_nobeta
+    -> status=102 obj=118.98 time=2.49 wall=3s other_cpu=95/95 OTHER_LOAD
+[2026-10-21 06:33] 369/420 P1_S9_zftbend_nobeta
+    -> status=101 obj=116.1 time=2.75 wall=4s other_cpu=148/148 OTHER_LOAD
+[2026-10-21 06:33] 370/420 P1_S10_zftbend_nobeta
+    -> status=102 obj=109.16 time=2.99 wall=4s other_cpu=106/106 OTHER_LOAD
+[2026-10-21 06:34] 371/420 P1_S11_zftbend_nobeta
+    -> status=107 obj=166.01 time=3602.98 wall=3,642s other_cpu=13.8/141 OTHER_LOAD
+[2026-10-21 07:34] 372/420 P1_S12_zftbend_nobeta
+    -> status=107 obj=185.29 time=3603.2 wall=3,646s other_cpu=15.7/148 OTHER_LOAD
+[2026-10-21 08:35] 373/420 P1_S13_zftbend_nobeta
+    -> status=107 obj=190.2 time=3602.87 wall=3,637s other_cpu=18.3/264 OTHER_LOAD
+[2026-10-21 09:36] 374/420 P1_S14_zftbend_nobeta
+    -> status=107 obj=206.3 time=3601.59 wall=3,627s other_cpu=22.2/181 OTHER_LOAD
+[2026-10-21 10:36] 375/420 P1_S15_zftbend_nobeta
+    -> status=107 obj=158.22 time=3601.97 wall=3,638s other_cpu=17.1/133 OTHER_LOAD
+[2026-10-21 11:37] 376/420 P1_S16_zftbend_nobeta
+    -> status=107 obj=174.92 time=3603.42 wall=3,637s other_cpu=17.6/341 OTHER_LOAD
+[2026-10-21 12:37] 377/420 P1_S17_zftbend_nobeta
+    -> status=107 obj=154.74 time=3602.0 wall=3,638s other_cpu=15/143 OTHER_LOAD
+[2026-10-21 13:38] 378/420 P1_S18_zftbend_nobeta
+    -> status=107 obj=188.11 time=3602.46 wall=3,626s other_cpu=17.1/148 OTHER_LOAD
+[2026-10-21 14:38] 379/420 P1_S19_zftbend_nobeta
+    -> status=107 obj=177.47 time=3600.26 wall=3,608s other_cpu=14.3/121 OTHER_LOAD
+[2026-10-21 15:39] 380/420 P1_S20_zftbend_nobeta
+    -> status=107 obj=165.74 time=3603.2 wall=3,634s other_cpu=16.4/158 OTHER_LOAD
+[2026-10-21 16:39] 381/420 P1_S1_zfdefault
+    -> status=101 obj=117.89 time=28.56 wall=30s other_cpu=44/73 OTHER_LOAD
+[2026-10-21 16:40] 382/420 P1_S2_zfdefault
+    -> status=101 obj=120.42 time=26.89 wall=28s other_cpu=19/23 OTHER_LOAD
+[2026-10-21 16:40] 383/420 P1_S3_zfdefault
+    -> status=101 obj=124.78 time=30.5 wall=32s other_cpu=5.3/11 
+[2026-10-21 16:41] 384/420 P1_S4_zfdefault
+    -> status=101 obj=118.17 time=15.3 wall=16s other_cpu=13/20 
+[2026-10-21 16:41] 385/420 P1_S5_zfdefault
+    -> status=101 obj=119.72 time=36.2 wall=37s other_cpu=11/28 
+[2026-10-21 16:42] 386/420 P1_S6_zfdefault
+    -> status=101 obj=112.44 time=19.0 wall=20s other_cpu=10/15 
+[2026-10-21 16:42] 387/420 P1_S7_zfdefault
+    -> status=101 obj=119.89 time=39.87 wall=41s other_cpu=19.3/26 OTHER_LOAD
+[2026-10-21 16:43] 388/420 P1_S8_zfdefault
+    -> status=101 obj=118.98 time=16.73 wall=18s other_cpu=13.5/22 
+[2026-10-21 16:43] 389/420 P1_S9_zfdefault
+    -> status=101 obj=116.1 time=36.33 wall=37s other_cpu=12.7/33 
+[2026-10-21 16:44] 390/420 P1_S10_zfdefault
+    -> status=101 obj=109.16 time=15.51 wall=17s other_cpu=5/10 
+[2026-10-21 16:44] 391/420 P1_S11_zfdefault
+    -> status=107 obj=154.85 time=3600.14 wall=3,602s other_cpu=20.3/136 OTHER_LOAD
+[2026-10-21 17:44] 392/420 P1_S12_zfdefault
+    -> status=107 obj=213.68 time=3600.1 wall=3,602s other_cpu=18.2/121 OTHER_LOAD
+[2026-10-21 18:44] 393/420 P1_S13_zfdefault
+    -> status=107 obj=188.13 time=3600.23 wall=3,602s other_cpu=18.1/144 OTHER_LOAD
+[2026-10-21 19:44] 394/420 P1_S14_zfdefault
+    -> status=107 obj=195.02 time=3600.1 wall=3,602s other_cpu=17.5/131 OTHER_LOAD
+[2026-10-21 20:44] 395/420 P1_S15_zfdefault
+    -> status=107 obj=167.08 time=3600.99 wall=3,603s other_cpu=17/96 OTHER_LOAD
+[2026-10-21 21:44] 396/420 P1_S16_zfdefault
+    -> status=107 obj=168.3 time=3600.13 wall=3,603s other_cpu=18.5/319 OTHER_LOAD
+[2026-10-21 22:44] 397/420 P1_S17_zfdefault
+    -> status=107 obj=181.54 time=3600.15 wall=3,602s other_cpu=20.2/205 OTHER_LOAD
+[2026-10-21 23:44] 398/420 P1_S18_zfdefault
+    -> status=107 obj=149.69 time=3600.13 wall=3,602s other_cpu=18.6/255 OTHER_LOAD
+[2026-10-22 00:44] 399/420 P1_S19_zfdefault
+    -> status=107 obj=164.34 time=3600.14 wall=3,602s other_cpu=16.6/152 OTHER_LOAD
+[2026-10-22 01:44] 400/420 P1_S20_zfdefault
+    -> status=107 obj=195.95 time=3600.12 wall=3,602s other_cpu=17/123 OTHER_LOAD
+[2026-10-22 02:44] 401/420 P1_S1_azf
+    -> status=101 obj=117.89 time=173.17 wall=174s other_cpu=13.4/53 
+[2026-10-22 02:47] 402/420 P1_S2_azf
+    -> status=102 obj=120.42 time=861.2 wall=862s other_cpu=15.5/96 OTHER_LOAD
+[2026-10-22 03:02] 403/420 P1_S3_azf
+    -> status=102 obj=124.78 time=529.68 wall=531s other_cpu=12.1/74 
+[2026-10-22 03:10] 404/420 P1_S4_azf
+    -> status=101 obj=118.17 time=412.67 wall=414s other_cpu=16.4/90 OTHER_LOAD
+[2026-10-22 03:17] 405/420 P1_S5_azf
+    -> status=102 obj=119.72 time=680.0 wall=681s other_cpu=13.9/53 
+[2026-10-22 03:29] 406/420 P1_S6_azf
+    -> status=101 obj=112.44 time=900.73 wall=902s other_cpu=15.9/113 OTHER_LOAD
+[2026-10-22 03:44] 407/420 P1_S7_azf
+    -> status=102 obj=119.89 time=860.12 wall=861s other_cpu=18.7/117 OTHER_LOAD
+[2026-10-22 03:58] 408/420 P1_S8_azf
+    -> status=102 obj=118.98 time=550.35 wall=551s other_cpu=10.4/65 
+[2026-10-22 04:07] 409/420 P1_S9_azf
+    -> status=102 obj=116.1 time=389.83 wall=391s other_cpu=14.7/82 
+[2026-10-22 04:14] 410/420 P1_S10_azf
+    -> status=101 obj=109.16 time=252.51 wall=253s other_cpu=11.7/37 
+[2026-10-22 04:18] 411/420 P1_S11_azf
+    -> status=107 obj=193.32 time=3600.13 wall=3,601s other_cpu=20.9/219 OTHER_LOAD
+[2026-10-22 05:18] 412/420 P1_S12_azf
+    -> status=107 obj=216.89 time=3600.08 wall=3,601s other_cpu=29.8/489 OTHER_LOAD
+[2026-10-22 06:18] 413/420 P1_S13_azf
+    -> status=107 obj=233.56 time=3600.14 wall=3,602s other_cpu=20.4/125 OTHER_LOAD
+[2026-10-22 07:18] 414/420 P1_S14_azf
+    -> status=107 obj=305.35 time=3600.14 wall=3,601s other_cpu=26.6/154 OTHER_LOAD
+[2026-10-22 08:18] 415/420 P1_S15_azf
+    -> status=107 obj=189.62 time=3600.09 wall=3,602s other_cpu=22.2/254 OTHER_LOAD
+[2026-10-22 09:18] 416/420 P1_S16_azf
+    -> status=107 obj=276.27 time=3600.15 wall=3,601s other_cpu=26.2/172 OTHER_LOAD
+[2026-10-22 10:18] 417/420 P1_S17_azf
+    -> status=107 obj=312.75 time=3600.14 wall=3,601s other_cpu=24.6/146 OTHER_LOAD
+[2026-10-22 11:18] 418/420 P1_S18_azf
+    -> status=107 obj=197.33 time=3600.14 wall=3,601s other_cpu=20.3/155 OTHER_LOAD
+[2026-10-22 12:18] 419/420 P1_S19_azf
+    -> status=107 obj=200.17 time=3600.12 wall=3,601s other_cpu=18.9/135 OTHER_LOAD
+[2026-10-22 13:18] 420/420 P1_S20_azf
+    -> status=107 obj=239.14 time=3600.13 wall=3,601s other_cpu=23.7/154 OTHER_LOAD
+[2026-10-22 14:18] runner finished
+[2026-10-22 18:22] 1/40 P1_S1_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=37/37 OTHER_LOAD
+[2026-10-22 18:22] 2/40 P1_S1_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=0/0 
+[2026-10-22 18:22] 3/40 P1_S2_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=10/10 
+[2026-10-22 18:22] 4/40 P1_S2_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-22 18:22] 5/40 P1_S3_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=31/31 OTHER_LOAD
+[2026-10-22 18:22] 6/40 P1_S3_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=10/10 
+[2026-10-22 18:22] 7/40 P1_S4_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-22 18:22] 8/40 P1_S4_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=21/21 OTHER_LOAD
+[2026-10-22 18:22] 9/40 P1_S5_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=84/84 OTHER_LOAD
+[2026-10-22 18:22] 10/40 P1_S5_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=6/6 
+[2026-10-22 18:22] 11/40 P1_S6_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-22 18:22] 12/40 P1_S6_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-22 18:22] 13/40 P1_S7_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-22 18:22] 14/40 P1_S7_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=11/11 
+[2026-10-22 18:22] 15/40 P1_S8_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=93/93 OTHER_LOAD
+[2026-10-22 18:22] 16/40 P1_S8_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-22 18:22] 17/40 P1_S9_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=0/0 
+[2026-10-22 18:22] 18/40 P1_S9_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=10/10 
+[2026-10-22 18:22] 19/40 P1_S10_azf_lpnone
+    -> status=1 obj= time= wall=1s other_cpu=16/16 OTHER_LOAD
+[2026-10-22 18:22] 20/40 P1_S10_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-22 18:22] 21/40 P1_S11_azf_lpnone
+    -> status=1 obj= time= wall=2s other_cpu=10/10 
+[2026-10-22 18:22] 22/40 P1_S11_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=20/20 OTHER_LOAD
+[2026-10-22 18:22] 23/40 P1_S12_azf_lpnone
+    -> status=1 obj= time= wall=2s other_cpu=26/26 OTHER_LOAD
+[2026-10-22 18:22] 24/40 P1_S12_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=5/5 
+[2026-10-22 18:22] 25/40 P1_S13_azf_lpnone
+    -> status=1 obj= time= wall=2s other_cpu=20/20 OTHER_LOAD
+[2026-10-22 18:23] 26/40 P1_S13_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=5/5 
+[2026-10-22 18:23] 27/40 P1_S14_azf_lpnone
+    -> status=1 obj= time= wall=3s other_cpu=11/11 
+[2026-10-22 18:23] 28/40 P1_S14_azf_lp1234
+    -> status=1 obj= time= wall=3s other_cpu=5/5 
+[2026-10-22 18:23] 29/40 P1_S15_azf_lpnone
+    -> status=1 obj= time= wall=3s other_cpu=38/38 OTHER_LOAD
+[2026-10-22 18:23] 30/40 P1_S15_azf_lp1234
+    -> status=1 obj= time= wall=3s other_cpu=10/10 
+[2026-10-22 18:23] 31/40 P1_S16_azf_lpnone
+    -> status=1 obj= time= wall=2s other_cpu=5/5 
+[2026-10-22 18:23] 32/40 P1_S16_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=0/0 
+[2026-10-22 18:23] 33/40 P1_S17_azf_lpnone
+    -> status=1 obj= time= wall=2s other_cpu=58/58 OTHER_LOAD
+[2026-10-22 18:23] 34/40 P1_S17_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=10/10 
+[2026-10-22 18:23] 35/40 P1_S18_azf_lpnone
+    -> status=1 obj= time= wall=2s other_cpu=27/27 OTHER_LOAD
+[2026-10-22 18:23] 36/40 P1_S18_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=31/31 OTHER_LOAD
+[2026-10-22 18:23] 37/40 P1_S19_azf_lpnone
+    -> status=1 obj= time= wall=2s other_cpu=10/10 
+[2026-10-22 18:23] 38/40 P1_S19_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=5/5 
+[2026-10-22 18:23] 39/40 P1_S20_azf_lpnone
+    -> status=1 obj= time= wall=3s other_cpu=11/11 
+[2026-10-22 18:23] 40/40 P1_S20_azf_lp1234
+    -> status=1 obj= time= wall=3s other_cpu=5/5 
+[2026-10-22 18:23] runner finished
+[2026-10-22 18:37] 1/60 P1_S1_bp
+    -> status=optimal obj=117.89178937449016 time=0.30 wall=1s other_cpu=54/54 OTHER_LOAD
+[2026-10-22 18:37] 2/60 P1_S2_bp
+    -> status=optimal obj=120.42412760470937 time=0.29 wall=1s other_cpu=60/60 OTHER_LOAD
+[2026-10-22 18:37] 3/60 P1_S3_bp
+    -> status=optimal obj=124.77534182343125 time=0.29 wall=1s other_cpu=11/11 
+[2026-10-22 18:37] 4/60 P1_S4_bp
+    -> status=optimal obj=118.16695278147724 time=0.28 wall=1s other_cpu=16/16 OTHER_LOAD
+[2026-10-22 18:37] 5/60 P1_S5_bp
+    -> status=optimal obj=119.72170305741687 time=0.35 wall=1s other_cpu=0/0 
+[2026-10-22 18:37] 6/60 P1_S6_bp
+    -> status=optimal obj=112.43681242154457 time=0.28 wall=1s other_cpu=5/5 
+[2026-10-22 18:37] 7/60 P1_S7_bp
+    -> status=optimal obj=119.89481252566853 time=0.29 wall=1s other_cpu=5/5 
+[2026-10-22 18:37] 8/60 P1_S8_bp
+    -> status=optimal obj=118.98143316238645 time=0.29 wall=1s other_cpu=63/63 OTHER_LOAD
+[2026-10-22 18:37] 9/60 P1_S9_bp
+    -> status=optimal obj=116.10098968025926 time=0.28 wall=1s other_cpu=10/10 
+[2026-10-22 18:37] 10/60 P1_S10_bp
+    -> status=optimal obj=109.15706096076012 time=0.28 wall=1s other_cpu=5/5 
+[2026-10-22 18:37] 11/60 P1_S11_bp
+    -> status=optimal obj=124.77843330997301 time=1.05 wall=2s other_cpu=16/16 OTHER_LOAD
+[2026-10-22 18:37] 12/60 P1_S12_bp
+    -> status=optimal obj=133.73148396839434 time=0.60 wall=1s other_cpu=47/47 OTHER_LOAD
+[2026-10-22 18:37] 13/60 P1_S13_bp
+    -> status=optimal obj=125.52834324877944 time=0.55 wall=1s other_cpu=18/18 OTHER_LOAD
+[2026-10-22 18:37] 14/60 P1_S14_bp
+    -> status=optimal obj=128.12645626746794 time=0.47 wall=1s other_cpu=10/10 
+[2026-10-22 18:37] 15/60 P1_S15_bp
+    -> status=optimal obj=119.506890335563 time=0.56 wall=1s other_cpu=20/20 OTHER_LOAD
+[2026-10-22 18:37] 16/60 P1_S16_bp
+    -> status=optimal obj=124.7149346766901 time=0.99 wall=2s other_cpu=16/16 OTHER_LOAD
+[2026-10-22 18:37] 17/60 P1_S17_bp
+    -> status=optimal obj=123.47414653461279 time=0.74 wall=1s other_cpu=15/15 
+[2026-10-22 18:37] 18/60 P1_S18_bp
+    -> status=optimal obj=113.00037848387375 time=0.34 wall=1s other_cpu=5/5 
+[2026-10-22 18:37] 19/60 P1_S19_bp
+    -> status=optimal obj=129.47705868519392 time=0.83 wall=1s other_cpu=5/5 
+[2026-10-22 18:37] 20/60 P1_S20_bp
+    -> status=optimal obj=129.08118575160336 time=0.49 wall=1s other_cpu=22/22 OTHER_LOAD
+[2026-10-22 18:37] 21/60 P2_d30_0_bp
+    -> status=optimal obj=131.78675663822798 time=1.53 wall=2s other_cpu=0/0 
+[2026-10-22 18:37] 22/60 P2_d30_1_bp
+    -> status=optimal obj=115.59118692874321 time=1.47 wall=2s other_cpu=5/5 
+[2026-10-22 18:37] 23/60 P2_d30_2_bp
+    -> status=optimal obj=111.82571914767203 time=2.32 wall=3s other_cpu=10/10 
+[2026-10-22 18:38] 24/60 P2_d30_3_bp
+    -> status=optimal obj=107.12342166595523 time=1.75 wall=2s other_cpu=0/0 
+[2026-10-22 18:38] 25/60 P2_d30_4_bp
+    -> status=optimal obj=134.87767152291707 time=5.54 wall=6s other_cpu=15/15 
+[2026-10-22 18:38] 26/60 P2_d30_5_bp
+    -> status=optimal obj=112.93034194549935 time=2.25 wall=3s other_cpu=5/5 
+[2026-10-22 18:38] 27/60 P2_d30_6_bp
+    -> status=optimal obj=122.20738860199378 time=1.50 wall=2s other_cpu=0/0 
+[2026-10-22 18:38] 28/60 P2_d30_7_bp
+    -> status=optimal obj=117.58385850403923 time=0.81 wall=1s other_cpu=10/10 
+[2026-10-22 18:38] 29/60 P2_d30_8_bp
+    -> status=optimal obj=109.7015522322482 time=1.02 wall=2s other_cpu=49/49 OTHER_LOAD
+[2026-10-22 18:38] 30/60 P2_d30_9_bp
+    -> status=optimal obj=127.73787604435847 time=0.73 wall=1s other_cpu=0/0 
+[2026-10-22 18:38] 31/60 P2_d30_10_bp
+    -> status=optimal obj=135.0044837602241 time=3.99 wall=5s other_cpu=43/43 OTHER_LOAD
+[2026-10-22 18:38] 32/60 P2_d30_11_bp
+    -> status=optimal obj=132.81983540337052 time=1.51 wall=2s other_cpu=0/0 
+[2026-10-22 18:38] 33/60 P2_d30_12_bp
+    -> status=optimal obj=137.22617352693285 time=0.93 wall=1s other_cpu=16/16 OTHER_LOAD
+[2026-10-22 18:38] 34/60 P2_d30_13_bp
+    -> status=optimal obj=119.72451460599254 time=1.60 wall=2s other_cpu=10/10 
+[2026-10-22 18:38] 35/60 P2_d30_14_bp
+    -> status=optimal obj=111.74845231293979 time=0.88 wall=1s other_cpu=12/12 
+[2026-10-22 18:38] 36/60 P2_d30_15_bp
+    -> status=optimal obj=111.09555856195456 time=1.57 wall=2s other_cpu=5/5 
+[2026-10-22 18:38] 37/60 P2_d30_16_bp
+    -> status=optimal obj=126.5708633039733 time=2.06 wall=3s other_cpu=5/5 
+[2026-10-22 18:38] 38/60 P2_d30_17_bp
+    -> status=optimal obj=121.47954927082299 time=0.75 wall=1s other_cpu=0/0 
+[2026-10-22 18:38] 39/60 P2_d30_18_bp
+    -> status=optimal obj=113.03764471169225 time=0.84 wall=2s other_cpu=15/15 
+[2026-10-22 18:38] 40/60 P2_d30_19_bp
+    -> status=optimal obj=118.28455321336166 time=10.19 wall=11s other_cpu=0/0 
+[2026-10-22 18:38] 41/60 P2_d40_0_bp
+    -> status=optimal obj=123.12820712162181 time=14.30 wall=15s other_cpu=0/0 
+[2026-10-22 18:39] 42/60 P2_d40_1_bp
+    -> status=optimal obj=110.54963465038483 time=13.19 wall=14s other_cpu=15/15 
+[2026-10-22 18:39] 43/60 P2_d40_2_bp
+    -> status=optimal obj=106.06634549730916 time=4.58 wall=5s other_cpu=0/0 
+[2026-10-22 18:39] 44/60 P2_d40_3_bp
+    -> status=optimal obj=113.77924303123802 time=18.46 wall=19s other_cpu=10/15 
+[2026-10-22 18:39] 45/60 P2_d40_4_bp
+    -> status=optimal obj=129.01362181710633 time=17.49 wall=18s other_cpu=2.5/5 
+[2026-10-22 18:40] 46/60 P2_d40_5_bp
+    -> status=optimal obj=105.35702077472081 time=4.58 wall=5s other_cpu=43/43 OTHER_LOAD
+[2026-10-22 18:40] 47/60 P2_d40_6_bp
+    -> status=optimal obj=116.33398934582016 time=12.59 wall=13s other_cpu=5/5 
+[2026-10-22 18:40] 48/60 P2_d40_7_bp
+    -> status=optimal obj=122.37531572523208 time=12.69 wall=13s other_cpu=52/52 OTHER_LOAD
+[2026-10-22 18:40] 49/60 P2_d40_8_bp
+    -> status=optimal obj=111.78604207624697 time=5.23 wall=6s other_cpu=10/10 
+[2026-10-22 18:40] 50/60 P2_d40_9_bp
+    -> status=optimal obj=119.2887555639484 time=49.85 wall=50s other_cpu=8.8/10 
+[2026-10-22 18:41] 51/60 P2_d40_10_bp
+    -> status=optimal obj=126.18422602357494 time=108.02 wall=109s other_cpu=10.9/37 
+[2026-10-22 18:43] 52/60 P2_d40_11_bp
+    -> status=optimal obj=124.9846944411634 time=2.86 wall=3s other_cpu=27/27 OTHER_LOAD
+[2026-10-22 18:43] 53/60 P2_d40_12_bp
+    -> status=optimal obj=123.50621780241168 time=11.00 wall=12s other_cpu=15/15 
+[2026-10-22 18:43] 54/60 P2_d40_13_bp
+    -> status=optimal obj=110.0925291300647 time=12.15 wall=13s other_cpu=5/5 
+[2026-10-22 18:43] 55/60 P2_d40_14_bp
+    -> status=optimal obj=116.63326285449043 time=5.72 wall=6s other_cpu=10/10 
+[2026-10-22 18:44] 56/60 P2_d40_15_bp
+    -> status=optimal obj=106.10146985823188 time=7.76 wall=8s other_cpu=12/12 
+[2026-10-22 18:44] 57/60 P2_d40_16_bp
+    -> status=optimal obj=127.93546975004378 time=21.04 wall=22s other_cpu=5/10 
+[2026-10-22 18:44] 58/60 P2_d40_17_bp
+    -> status=optimal obj=112.83259335249409 time=145.81 wall=146s other_cpu=6.6/21 
+[2026-10-22 18:46] 59/60 P2_d40_18_bp
+    -> status=optimal obj=113.70207714731946 time=10.32 wall=11s other_cpu=15/15 
+[2026-10-22 18:47] 60/60 P2_d40_19_bp
+    -> status=optimal obj=118.41656296501083 time=21.12 wall=22s other_cpu=13/16 
+[2026-10-22 18:47] runner finished
+[2026-10-22 18:54] 1/60 P1_S1_bp
+    -> status=optimal obj=117.89178937449016 time=0.30 wall=1s other_cpu=26/26 OTHER_LOAD
+[2026-10-22 18:54] 2/60 P1_S2_bp
+    -> status=optimal obj=120.42412760470937 time=0.30 wall=1s other_cpu=5/5 
+[2026-10-22 18:54] 3/60 P1_S3_bp
+    -> status=optimal obj=124.77534182343125 time=0.30 wall=1s other_cpu=25/25 OTHER_LOAD
+[2026-10-22 18:54] 4/60 P1_S4_bp
+    -> status=optimal obj=118.16695278147724 time=0.30 wall=1s other_cpu=53/53 OTHER_LOAD
+[2026-10-22 18:54] 5/60 P1_S5_bp
+    -> status=optimal obj=119.72170305741687 time=0.39 wall=1s other_cpu=31/31 OTHER_LOAD
+[2026-10-22 18:54] 6/60 P1_S6_bp
+    -> status=optimal obj=112.43681242154457 time=0.29 wall=1s other_cpu=10/10 
+[2026-10-22 18:54] 7/60 P1_S7_bp
+    -> status=optimal obj=119.89481252566853 time=0.30 wall=1s other_cpu=10/10 
+[2026-10-22 18:54] 8/60 P1_S8_bp
+    -> status=optimal obj=118.98143316238645 time=0.30 wall=1s other_cpu=26/26 OTHER_LOAD
+[2026-10-22 18:54] 9/60 P1_S9_bp
+    -> status=optimal obj=116.10098968025926 time=0.29 wall=1s other_cpu=39/39 OTHER_LOAD
+[2026-10-22 18:54] 10/60 P1_S10_bp
+    -> status=optimal obj=109.15706096076012 time=0.29 wall=1s other_cpu=5/5 
+[2026-10-22 18:54] 11/60 P1_S11_bp
+    -> status=optimal obj=124.77843330997301 time=1.87 wall=2s other_cpu=5/5 
+[2026-10-22 18:54] 12/60 P1_S12_bp
+    -> status=optimal obj=133.73148396839434 time=0.36 wall=1s other_cpu=166/166 OTHER_LOAD
+[2026-10-22 18:54] 13/60 P1_S13_bp
+    -> status=optimal obj=125.52834324877944 time=0.45 wall=1s other_cpu=5/5 
+[2026-10-22 18:54] 14/60 P1_S14_bp
+    -> status=optimal obj=128.12645626746794 time=0.33 wall=1s other_cpu=38/38 OTHER_LOAD
+[2026-10-22 18:54] 15/60 P1_S15_bp
+    -> status=optimal obj=119.506890335563 time=0.39 wall=1s other_cpu=15/15 
+[2026-10-22 18:54] 16/60 P1_S16_bp
+    -> status=optimal obj=124.7149346766901 time=0.93 wall=2s other_cpu=60/60 OTHER_LOAD
+[2026-10-22 18:54] 17/60 P1_S17_bp
+    -> status=optimal obj=123.47414653461279 time=0.69 wall=1s other_cpu=42/42 OTHER_LOAD
+[2026-10-22 18:54] 18/60 P1_S18_bp
+    -> status=optimal obj=113.00037848387375 time=0.33 wall=1s other_cpu=15/15 
+[2026-10-22 18:54] 19/60 P1_S19_bp
+    -> status=optimal obj=129.47705868519392 time=0.63 wall=1s other_cpu=12/12 
+[2026-10-22 18:54] 20/60 P1_S20_bp
+    -> status=optimal obj=129.08118575160336 time=0.52 wall=1s other_cpu=16/16 OTHER_LOAD
+[2026-10-22 18:54] 21/60 P2_d30_0_bp
+    -> status=optimal obj=131.78675663822798 time=0.78 wall=1s other_cpu=5/5 
+[2026-10-22 18:54] 22/60 P2_d30_1_bp
+    -> status=optimal obj=115.59118692874321 time=2.33 wall=3s other_cpu=5/5 
+[2026-10-22 18:54] 23/60 P2_d30_2_bp
+    -> status=optimal obj=111.82571914767203 time=4.78 wall=5s other_cpu=16/16 OTHER_LOAD
+[2026-10-22 18:54] 24/60 P2_d30_3_bp
+    -> status=optimal obj=107.12342166595523 time=0.74 wall=1s other_cpu=20/20 OTHER_LOAD
+[2026-10-22 18:54] 25/60 P2_d30_4_bp
+    -> status=optimal obj=134.87767152291707 time=5.80 wall=6s other_cpu=20/20 OTHER_LOAD
+[2026-10-22 18:54] 26/60 P2_d30_5_bp
+    -> status=optimal obj=112.93034194549935 time=4.90 wall=5s other_cpu=54/54 OTHER_LOAD
+[2026-10-22 18:54] 27/60 P2_d30_6_bp
+    -> status=optimal obj=122.20738860199378 time=2.37 wall=3s other_cpu=18/18 OTHER_LOAD
+[2026-10-22 18:54] 28/60 P2_d30_7_bp
+    -> status=optimal obj=117.58385850403923 time=0.54 wall=1s other_cpu=63/63 OTHER_LOAD
+[2026-10-22 18:54] 29/60 P2_d30_8_bp
+    -> status=optimal obj=109.7015522322482 time=0.69 wall=1s other_cpu=48/48 OTHER_LOAD
+[2026-10-22 18:55] 30/60 P2_d30_9_bp
+    -> status=optimal obj=127.73787604435847 time=0.64 wall=1s other_cpu=0/0 
+[2026-10-22 18:55] 31/60 P2_d30_10_bp
+    -> status=optimal obj=135.0044837602241 time=11.32 wall=12s other_cpu=26/26 OTHER_LOAD
+[2026-10-22 18:55] 32/60 P2_d30_11_bp
+    -> status=optimal obj=132.81983540337052 time=1.52 wall=2s other_cpu=20/20 OTHER_LOAD
+[2026-10-22 18:55] 33/60 P2_d30_12_bp
+    -> status=optimal obj=137.22617352693285 time=0.54 wall=1s other_cpu=0/0 
+[2026-10-22 18:55] 34/60 P2_d30_13_bp
+    -> status=optimal obj=119.72451460599254 time=1.01 wall=2s other_cpu=103/103 OTHER_LOAD
+[2026-10-22 18:55] 35/60 P2_d30_14_bp
+    -> status=optimal obj=111.74845231293979 time=0.56 wall=1s other_cpu=114/114 OTHER_LOAD
+[2026-10-22 18:55] 36/60 P2_d30_15_bp
+    -> status=optimal obj=111.09555856195456 time=0.75 wall=1s other_cpu=58/58 OTHER_LOAD
+[2026-10-22 18:55] 37/60 P2_d30_16_bp
+    -> status=optimal obj=126.5708633039733 time=7.42 wall=8s other_cpu=5/5 
+[2026-10-22 18:55] 38/60 P2_d30_17_bp
+    -> status=optimal obj=121.47954927082299 time=0.53 wall=1s other_cpu=21/21 OTHER_LOAD
+[2026-10-22 18:55] 39/60 P2_d30_18_bp
+    -> status=optimal obj=113.03764471169225 time=1.51 wall=2s other_cpu=5/5 
+[2026-10-22 18:55] 40/60 P2_d30_19_bp
+    -> status=optimal obj=118.28455321336166 time=29.25 wall=30s other_cpu=3/6 
+[2026-10-22 18:56] 41/60 P2_d40_0_bp
+    -> status=optimal obj=123.12820712162181 time=24.79 wall=25s other_cpu=21/42 OTHER_LOAD
+[2026-10-22 18:56] 42/60 P2_d40_1_bp
+    -> status=optimal obj=110.54963465038483 time=50.44 wall=51s other_cpu=9/16 
+[2026-10-22 18:57] 43/60 P2_d40_2_bp
+    -> status=optimal obj=106.06634549730916 time=15.10 wall=16s other_cpu=25/35 OTHER_LOAD
+[2026-10-22 18:57] 44/60 P2_d40_3_bp
+    -> status=optimal obj=113.77924303123802 time=32.31 wall=33s other_cpu=17.3/21 OTHER_LOAD
+[2026-10-22 18:58] 45/60 P2_d40_4_bp
+    -> status=optimal obj=129.01362181710633 time=5.76 wall=6s other_cpu=5/5 
+[2026-10-22 18:58] 46/60 P2_d40_5_bp
+    -> status=optimal obj=105.35702077472081 time=6.29 wall=7s other_cpu=37/37 OTHER_LOAD
+[2026-10-22 18:58] 47/60 P2_d40_6_bp
+    -> status=optimal obj=116.33398934582016 time=29.72 wall=30s other_cpu=23/26 OTHER_LOAD
+[2026-10-22 18:58] 48/60 P2_d40_7_bp
+    -> status=optimal obj=122.37531572523208 time=38.40 wall=39s other_cpu=32/65 OTHER_LOAD
+[2026-10-22 18:59] 49/60 P2_d40_8_bp
+    -> status=optimal obj=111.78604207624697 time=19.48 wall=20s other_cpu=5/5 
+[2026-10-22 18:59] 50/60 P2_d40_9_bp
+    -> status=optimal obj=119.2887555639484 time=32.49 wall=33s other_cpu=18.3/21 OTHER_LOAD
+[2026-10-22 19:00] 51/60 P2_d40_10_bp
+    -> status=optimal obj=126.18422602357494 time=79.39 wall=80s other_cpu=22.2/51 OTHER_LOAD
+[2026-10-22 19:01] 52/60 P2_d40_11_bp
+    -> status=optimal obj=124.9846944411634 time=1.23 wall=2s other_cpu=5/5 
+[2026-10-22 19:01] 53/60 P2_d40_12_bp
+    -> status=optimal obj=123.50621780241168 time=19.50 wall=20s other_cpu=30/49 OTHER_LOAD
+[2026-10-22 19:02] 54/60 P2_d40_13_bp
+    -> status=optimal obj=110.0925291300647 time=2.62 wall=3s other_cpu=37/37 OTHER_LOAD
+[2026-10-22 19:02] 55/60 P2_d40_14_bp
+    -> status=optimal obj=116.63326285449043 time=4.19 wall=5s other_cpu=5/5 
+[2026-10-22 19:02] 56/60 P2_d40_15_bp
+    -> status=optimal obj=106.10146985823188 time=7.19 wall=8s other_cpu=32/32 OTHER_LOAD
+[2026-10-22 19:02] 57/60 P2_d40_16_bp
+    -> status=optimal obj=127.93546975004378 time=35.68 wall=36s other_cpu=31/83 OTHER_LOAD
+[2026-10-22 19:03] 58/60 P2_d40_17_bp
+    -> status=optimal obj=112.83259335249409 time=89.18 wall=90s other_cpu=15.3/67 OTHER_LOAD
+[2026-10-22 19:04] 59/60 P2_d40_18_bp
+    -> status=optimal obj=113.70207714731946 time=4.79 wall=5s other_cpu=5/5 
+[2026-10-22 19:04] 60/60 P2_d40_19_bp
+    -> status=optimal obj=118.41656296501083 time=52.15 wall=53s other_cpu=6.5/11 
+[2026-10-22 19:05] runner finished

@@ -1,0 +1,5 @@
+Lower Bound 1: Active
+Lower Bound 2: Active
+Lower Bound 3 active (mu=2, kappa=4)
+Lower Bound 4 Active (mu=2)
+Objective value = 276.26920067701985

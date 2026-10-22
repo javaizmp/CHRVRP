@@ -1,0 +1,2 @@
+Lower Bound 2: Active
+### using compact formulation (zfdefault) ###

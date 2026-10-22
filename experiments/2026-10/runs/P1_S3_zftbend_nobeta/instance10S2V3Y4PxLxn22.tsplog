@@ -1,0 +1,69 @@
+Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_Threads                                 6
+CPXPARAM_RandomSeed                              10
+CPXPARAM_TimeLimit                               3600
+Legacy callback                                  LD
+Warning: Control callbacks may disable some MIP features.
+Lazy constraint(s) or lazy constraint/branch callback is present.
+    Disabling dual reductions (CPX_PARAM_REDUCE) in presolve.
+    Disabling presolve reductions that prevent crushing forms (CPX_PARAM_PREREFORM).
+         Disabling repeat represolve because of lazy constraint/incumbent callback.
+Tried aggregator 2 times.
+MIP Presolve eliminated 385 rows and 276 columns.
+MIP Presolve modified 130 coefficients.
+Aggregator did 6 substitutions.
+Reduced MIP has 440 rows, 439 columns, and 2508 nonzeros.
+Reduced MIP has 438 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (3.60 ticks)
+Probing time = 0.00 sec. (2.15 ticks)
+Clique table members: 1262.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: traditional branch-and-cut.
+Parallel mode: deterministic, using up to 6 threads.
+Root relaxation solution time = 0.00 sec. (7.11 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap         Variable B NodeID Parent  Depth
+
+      0     0       91.9649    54                     91.9649      294         
+*     0+    0                          248.4892       91.9649            62.99%
+      0     0       91.9649    32      248.4892    MIRcuts: 1      318   62.99%
+      0     0       91.9649    65      248.4892      Cuts: 30      385   62.99%
+      0     0       91.9649    28      248.4892    MIRcuts: 1      411   62.99%
+*     0+    0                          240.6403       91.9649            61.78%
+      0     0       91.9649    69      240.6403      Cuts: 14      464   61.78%
+*     0+    0                          230.4183       91.9649            60.09%
+*     0+    0                          214.4777       91.9649            57.12%
+*     0+    0                          184.4265       91.9649            50.13%
+*     0+    0                          152.9739       91.9649            39.88%
+      0     2       91.9649    44      152.9739       91.9649      464   39.88%                        0             0
+Elapsed time = 0.14 sec. (167.93 ticks, tree = 0.02 MB, solutions = 6)
+*   988+  456                          145.0336       91.9649            36.59%
+   1569   887      132.3060    26      145.0336       91.9649    19324   36.59%    x_11_103_108 D   1566   1560     33
+*  1882+ 1055                          132.4326       91.9649            30.56%
+   4063  2143       94.8116    50      132.4326       92.8748    59666   29.87%    x_11_103_108 D   3667   3661     29
+   6702  3069      123.3626    21      132.4326       94.7509    95298   28.45%     x_11_101_11 N   6744   6738     39
+*  9083  3659      integral     0      128.9294      100.1442   129013   22.33%
+   9684  3227      104.9296    42      128.9294      102.2796   136802   20.67%        w_10_104 N   9129   9117     25
+  13590  3575    infeasible            128.9294      107.1686   182628   16.88%    x_11_101_108 U  13648  13630     31
+  17897  2371        cutoff            128.9294      116.0816   222617    9.96%      x_11_0_107 U  18071   7227     19
+  21458  2061      123.2177    34      128.9294      122.5425   251186    4.95%      x_11_0_101 D  21328  21202     25
+* 24056  1763      integral     0      128.8612      123.2177   295478    4.38%
+* 24278  1708      integral     0      126.7951      123.2177   295937    2.82%
+* 24284  1545      integral     0      124.7753      123.2177   300991    1.25%
+  24419  1648      124.7753    14      124.7753      123.2177   301174    1.25%      x_11_0_101 U  23859  23817     27
+
+Implied bound cuts applied:  23
+Mixed integer rounding cuts applied:  16
+Zero-half cuts applied:  1
+User cuts applied:  232
+
+Root node processing (before b&c):
+  Real time             =    0.14 sec. (167.76 ticks)
+Parallel b&c, 6 threads:
+  Real time             =    2.19 sec. (1923.25 ticks)
+  Sync time (average)   =    0.33 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    2.33 sec. (2091.01 ticks)

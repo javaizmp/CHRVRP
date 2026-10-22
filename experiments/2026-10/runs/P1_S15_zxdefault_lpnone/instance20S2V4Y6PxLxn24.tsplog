@@ -1,0 +1,75 @@
+Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_Threads                                 6
+CPXPARAM_RandomSeed                              10
+CPXPARAM_TimeLimit                               3600
+Parallel mode: deterministic, using up to 6 threads for concurrent optimization:
+ * Starting dual Simplex on 1 thread...
+ * Starting Barrier on 4 threads...
+ * Starting primal Simplex on 1 thread...
+Tried aggregator 1 time.
+LP Presolve eliminated 19320 rows and 21540 columns.
+Aggregator did 8 substitutions.
+Reduced LP has 43124 rows, 40749 columns, and 166464 nonzeros.
+Presolve time = 0.09 sec. (100.64 ticks)
+Initializing dual steep norms . . .
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             0.000000
+Perturbation started.
+Iteration:   101   Dual objective     =             0.000000
+Iteration:   507   Dual objective     =             0.000006
+Iteration:   851   Dual objective     =             0.000010
+Iteration:  1145   Dual objective     =             0.000013
+Iteration:  1467   Dual objective     =             0.000023
+Iteration:  1818   Dual objective     =             0.000044
+Iteration:  2241   Dual objective     =             0.001946
+Iteration:  2644   Dual objective     =            60.242124
+Iteration:  3008   Dual objective     =            66.648118
+Iteration:  3378   Dual objective     =            69.294532
+Iteration:  3763   Dual objective     =            72.382556
+Iteration:  4158   Dual objective     =            72.839995
+Iteration:  4558   Dual objective     =            73.842684
+Iteration:  4908   Dual objective     =            75.743724
+Iteration:  5303   Dual objective     =            76.180197
+Iteration:  5649   Dual objective     =            76.376829
+Iteration:  6018   Dual objective     =            79.706716
+Iteration:  6309   Dual objective     =            80.907559
+Iteration:  6670   Dual objective     =            82.928272
+Iteration:  7010   Dual objective     =            82.928276
+Iteration:  7423   Dual objective     =            83.313509
+Iteration:  7834   Dual objective     =            83.629066
+Iteration:  8253   Dual objective     =            84.254070
+Iteration:  8667   Dual objective     =            84.318065
+Iteration:  9147   Dual objective     =            84.601151
+Iteration:  9635   Dual objective     =            84.670570
+Iteration: 10030   Dual objective     =            84.928112
+Iteration: 10531   Dual objective     =            85.014397
+Iteration: 10994   Dual objective     =            85.096641
+Iteration: 11424   Dual objective     =            85.699893
+Iteration: 11863   Dual objective     =            85.984695
+Iteration: 12316   Dual objective     =            86.040669
+Iteration: 12820   Dual objective     =            86.236495
+Iteration: 13372   Dual objective     =            86.261657
+Iteration: 13867   Dual objective     =            86.325695
+Iteration: 14307   Dual objective     =            86.362278
+Iteration: 14772   Dual objective     =            86.517206
+Iteration: 15274   Dual objective     =            86.778249
+Iteration: 15788   Dual objective     =            87.025026
+Iteration: 16335   Dual objective     =            87.026336
+Iteration: 16922   Dual objective     =            87.026341
+Iteration: 17361   Dual objective     =            87.047252
+Iteration: 17846   Dual objective     =            87.121820
+Iteration: 18346   Dual objective     =            87.195111
+Iteration: 18828   Dual objective     =            87.197633
+Iteration: 19304   Dual objective     =            87.259649
+Iteration: 19719   Dual objective     =            87.284459
+Iteration: 20186   Dual objective     =            87.342998
+Iteration: 20566   Dual objective     =            87.442665
+Iteration: 21124   Dual objective     =            87.525093
+Iteration: 21596   Dual objective     =            87.575197
+Iteration: 22114   Dual objective     =            87.575202
+Removing perturbation.
+
+Barrier solved model.
+

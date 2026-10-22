@@ -1,0 +1,5 @@
+﻿instance20S2V4Y6PxLxn20 t=1 exit=0
+instance20S2V4Y6PxLxn20 t=6 exit=0
+instance20S2V4Y6PxLxn35 t=1 exit=0
+instance20S2V4Y6PxLxn35 t=6 exit=0
+DONE

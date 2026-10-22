@@ -1,0 +1,14 @@
+﻿t=6 New Instances\instance_size_40_inst_0.tsp  status=optimal  obj=123.1282  lb=123.1281  root_lb=121.5908  time=26.45s  nodes=650  cols=6881
+t=6 New Instances\instance_size_40_inst_1.tsp  status=optimal  obj=110.5496  lb=110.5496  root_lb=108.6797  time=53.86s  nodes=2698  cols=8206
+t=6 New Instances\instance_size_40_inst_2.tsp  status=optimal  obj=106.0663  lb=106.0663  root_lb=105.0499  time=15.59s  nodes=414  cols=3441
+t=6 New Instances\instance_size_40_inst_3.tsp  status=optimal  obj=113.7792  lb=113.7792  root_lb=112.5305  time=33.25s  nodes=404  cols=3694
+t=6 New Instances\instance_size_40_inst_4.tsp  status=optimal  obj=129.0136  lb=129.0136  root_lb=129.0136  time=6.13s  nodes=51  cols=4983
+t=6 New Instances\instance_size_40_inst_5.tsp  status=optimal  obj=105.3570  lb=105.3569  root_lb=105.0015  time=6.71s  nodes=143  cols=2685
+t=6 New Instances\instance_size_40_inst_6.tsp  status=optimal  obj=116.3340  lb=116.3339  root_lb=114.6254  time=31.00s  nodes=667  cols=4734
+t=6 New Instances\instance_size_40_inst_7.tsp  status=optimal  obj=122.3753  lb=122.3753  root_lb=120.2265  time=39.81s  nodes=461  cols=4213
+t=6 New Instances\instance_size_40_inst_8.tsp  status=optimal  obj=111.7860  lb=111.7860  root_lb=109.4902  time=20.53s  nodes=573  cols=4571
+t=1 New Instances\instance_size_40_inst_0.tsp  status=optimal  obj=123.1282  lb=123.1281  root_lb=121.5908  time=31.62s  nodes=650  cols=6881
+t=1 New Instances\instance_size_40_inst_1.tsp  status=optimal  obj=110.5496  lb=110.5496  root_lb=108.6797  time=60.83s  nodes=2547  cols=8412
+t=1 New Instances\instance_size_40_inst_2.tsp  status=optimal  obj=106.0663  lb=106.0663  root_lb=105.0499  time=21.52s  nodes=414  cols=3441
+t=1 New Instances\instance_size_40_inst_3.tsp  status=optimal  obj=113.7792  lb=113.7792  root_lb=112.5305  time=39.57s  nodes=404  cols=3694
+t=1 New Instances\instance_size_40_inst_4.tsp  status=optimal  obj=129.0136  lb=129.0136  root_lb=129.0136  time=7.67s  nodes=51  cols=4983

@@ -1,0 +1,1 @@
+instance_size_40_inst_3.tsp  status=optimal  obj=113.7792  lb=113.7792  root_lb=112.5305  time=32.31s  nodes=404  cols=3694

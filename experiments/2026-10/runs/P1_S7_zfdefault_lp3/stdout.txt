@@ -1,0 +1,2 @@
+Lower Bound 3 active (mu=2, kappa=3)
+### using compact formulation (zfdefault) ###

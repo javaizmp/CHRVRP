@@ -1,0 +1,2 @@
+Lower Bound 4 Active (mu=2)
+### using compact formulation (zfdefault) ###

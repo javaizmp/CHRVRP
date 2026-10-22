@@ -1,0 +1,48 @@
+{
+ "status": "optimal",
+ "obj": 118.98143316238645,
+ "lb": 118.98138316238645,
+ "root_lb": 118.98138316238645,
+ "time": 0.2920980453491211,
+ "columns": 231,
+ "routes": [
+  {
+   "vehicle": 0,
+   "supplier": 0,
+   "customers": [
+    0,
+    7,
+    4
+   ],
+   "time": 118.98143316238645
+  },
+  {
+   "vehicle": 1,
+   "supplier": 0,
+   "customers": [
+    2,
+    1,
+    3
+   ],
+   "time": 95.91061093543262
+  },
+  {
+   "vehicle": 2,
+   "supplier": 1,
+   "customers": [
+    9,
+    8,
+    6,
+    5
+   ],
+   "time": 110.33892521837008
+  }
+ ],
+ "nodes": 5,
+ "lp_solves": 15,
+ "lp_time": 0.005014896392822266,
+ "pricing_time": 0.27692294120788574,
+ "pool_ip_time": 0.00915217399597168,
+ "bp_runs": 5,
+ "threads": 6
+}

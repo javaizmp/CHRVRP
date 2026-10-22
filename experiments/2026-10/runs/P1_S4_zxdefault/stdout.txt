@@ -1,0 +1,6 @@
+Lower Bound 1: Active
+Lower Bound 2: Active
+Lower Bound 3 active (mu=2, kappa=3)
+Lower Bound 4 Active (mu=2)
+### using compact formulation (zxdefault) ###
+Objective value = 118.16695278147724

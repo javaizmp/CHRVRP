@@ -1,0 +1,60 @@
+Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_Threads                                 6
+CPXPARAM_RandomSeed                              10
+CPXPARAM_TimeLimit                               3600
+Parallel mode: deterministic, using up to 6 threads for concurrent optimization:
+ * Starting dual Simplex on 1 thread...
+ * Starting Barrier on 4 threads...
+ * Starting primal Simplex on 1 thread...
+Tried aggregator 1 time.
+LP Presolve eliminated 19320 rows and 21540 columns.
+Aggregator did 8 substitutions.
+Reduced LP has 43124 rows, 40749 columns, and 166464 nonzeros.
+Presolve time = 0.09 sec. (100.68 ticks)
+Initializing dual steep norms . . .
+
+Iteration log . . .
+Iteration:     1   Dual objective     =             0.000000
+Perturbation started.
+Iteration:   101   Dual objective     =             0.000000
+Iteration:   497   Dual objective     =             0.000006
+Iteration:   870   Dual objective     =             0.000009
+Iteration:  1180   Dual objective     =             0.000011
+Iteration:  1527   Dual objective     =             0.000014
+Iteration:  1858   Dual objective     =             0.000021
+Iteration:  2180   Dual objective     =             0.000032
+Iteration:  2529   Dual objective     =             0.000062
+Iteration:  2935   Dual objective     =             0.000174
+Iteration:  3347   Dual objective     =             0.027001
+Iteration:  3735   Dual objective     =            73.128319
+Iteration:  4175   Dual objective     =            73.588121
+Iteration:  4489   Dual objective     =            79.419098
+Iteration:  4842   Dual objective     =            81.826236
+Iteration:  5203   Dual objective     =            82.079495
+Iteration:  5586   Dual objective     =            83.705522
+Iteration:  5937   Dual objective     =            85.557010
+Iteration:  6325   Dual objective     =            87.387714
+Iteration:  6638   Dual objective     =            89.171141
+Iteration:  6945   Dual objective     =            89.892714
+Iteration:  7375   Dual objective     =            90.177319
+Iteration:  7673   Dual objective     =            90.598897
+Iteration:  8019   Dual objective     =            91.334547
+Iteration:  8585   Dual objective     =            91.343694
+Iteration:  9022   Dual objective     =            92.749833
+Iteration:  9342   Dual objective     =            93.886952
+Iteration:  9838   Dual objective     =            94.595967
+Iteration: 10222   Dual objective     =            94.997582
+Iteration: 10622   Dual objective     =            95.262285
+Iteration: 11181   Dual objective     =            95.478532
+Iteration: 11568   Dual objective     =            95.698254
+Iteration: 12086   Dual objective     =            95.828756
+Iteration: 12593   Dual objective     =            96.086650
+Iteration: 13081   Dual objective     =            96.644064
+Iteration: 13645   Dual objective     =            96.671370
+Iteration: 14145   Dual objective     =            96.709294
+Iteration: 14745   Dual objective     =            96.738108
+Removing perturbation.
+
+Barrier solved model.
+
