@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "91.964875",
-    "wall":  0.9,
+    "lp":  "33.860677",
+    "wall":  1.3,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  31,
-    "other_cpu_max":  31,
-    "other_top":  "nvcontainer System claude",
+    "other_cpu_mean":  70,
+    "other_cpu_max":  70,
+    "other_top":  "svchost msedgewebview2 claude",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-22T18:22:29"
+    "start":  "2026-10-22T21:21:42"
 }

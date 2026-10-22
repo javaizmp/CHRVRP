@@ -49,7 +49,8 @@ foreach ($j in $jobs) {
     $base = [IO.Path]::GetFileNameWithoutExtension($file)
 
     $env:CHRVRP_THREADS = $THREADS; $env:CHRVRP_TIMELIMIT = $TIMELIMIT
-    $env:CHRVRP_LB = $j.LB; $env:CHRVRP_BETATIGHT = $j.BETATIGHT
+    # '0' = no lower bounds: assigning '' would delete the variable, and expt_agg.py defaults to all bounds
+    $env:CHRVRP_LB = $(if ($j.LB) { $j.LB } else { '0' }); $env:CHRVRP_BETATIGHT = $j.BETATIGHT
     $env:CHRVRP_LPREL = $(if ($j.LPREL -eq '1') { '1' } else { '' })
     $env:CHRVRP_FORCED_VEHICLES = ''; $env:CHRVRP_WRITELP = ''
     switch -Wildcard ($j.method) {

@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "81.778851",
-    "wall":  2.1,
+    "lp":  "25.093975",
+    "wall":  7.5,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  27,
-    "other_cpu_max":  27,
-    "other_top":  "svchost claude WmiPrvSE",
+    "other_cpu_mean":  86,
+    "other_cpu_max":  86,
+    "other_top":  "msedgewebview2 OktaVerify TeamViewer_Desktop",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-22T18:23:26"
+    "start":  "2026-10-22T21:22:50"
 }

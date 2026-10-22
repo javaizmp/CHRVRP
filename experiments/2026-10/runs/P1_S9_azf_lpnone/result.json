@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "93.841736",
-    "wall":  0.9,
+    "lp":  "31.061501",
+    "wall":  1.4,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  0,
-    "other_cpu_max":  0,
-    "other_top":  "",
-    "flag":  "",
-    "start":  "2026-10-22T18:22:44"
+    "other_cpu_mean":  26,
+    "other_cpu_max":  26,
+    "other_top":  "svchost claude NVDisplay.Container",
+    "flag":  "OTHER_LOAD",
+    "start":  "2026-10-22T21:21:52"
 }

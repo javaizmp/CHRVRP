@@ -8,20 +8,46 @@ Parallel mode: deterministic, using up to 6 threads for concurrent optimization:
  * Starting Barrier on 4 threads...
  * Starting primal Simplex on 1 thread...
 Tried aggregator 1 time.
-LP Presolve eliminated 3936 rows and 4153 columns.
-Reduced LP has 5107 rows, 4218 columns, and 21777 nonzeros.
-Presolve time = 0.02 sec. (12.59 ticks)
+LP Presolve eliminated 3929 rows and 4153 columns.
+Reduced LP has 5076 rows, 4218 columns, and 21657 nonzeros.
+Presolve time = 0.01 sec. (12.51 ticks)
 Initializing dual steep norms . . .
 
 Iteration log . . .
-Iteration:     1   Dual objective     =            90.070912
+Iteration:     1   Dual objective     =             0.000000
 Perturbation started.
-Iteration:   101   Dual objective     =            90.070912
-Iteration:   212   Dual objective     =            90.070915
-Iteration:   318   Dual objective     =            90.070916
-Iteration:   419   Dual objective     =            90.070916
-Iteration:   513   Dual objective     =            90.070917
-Iteration:   610   Dual objective     =            90.070917
+Iteration:   101   Dual objective     =             0.000000
+Iteration:   218   Dual objective     =             0.000007
+Iteration:   349   Dual objective     =             0.000015
+Iteration:   463   Dual objective     =             0.000024
+Iteration:   583   Dual objective     =             0.000039
+Iteration:   692   Dual objective     =             0.000070
+Iteration:   809   Dual objective     =             0.000107
+Iteration:   918   Dual objective     =             0.000156
+Iteration:  1039   Dual objective     =             0.000275
+Iteration:  1172   Dual objective     =            26.995371
+Iteration:  1320   Dual objective     =            26.995445
+Iteration:  1453   Dual objective     =            26.995512
+Iteration:  1560   Dual objective     =            26.995532
+Iteration:  1680   Dual objective     =            26.995538
+Iteration:  1778   Dual objective     =            26.995542
+Iteration:  1874   Dual objective     =            26.995545
+Iteration:  1976   Dual objective     =            26.995549
+Iteration:  2071   Dual objective     =            26.995551
+Iteration:  2165   Dual objective     =            26.995553
+Iteration:  2261   Dual objective     =            26.995556
+Iteration:  2359   Dual objective     =            26.995558
+Iteration:  2455   Dual objective     =            26.995561
+Iteration:  2544   Dual objective     =            26.995563
+Iteration:  2640   Dual objective     =            26.995701
+Iteration:  2737   Dual objective     =            26.995705
+Iteration:  2840   Dual objective     =            26.995706
+Iteration:  2931   Dual objective     =            26.995706
+Iteration:  3026   Dual objective     =            26.995708
+Iteration:  3127   Dual objective     =            26.995708
+Iteration:  3243   Dual objective     =            26.995710
+Iteration:  3349   Dual objective     =            26.995715
+Iteration:  3479   Dual objective     =            27.293251
 Removing perturbation.
 
 Dual simplex solved model.

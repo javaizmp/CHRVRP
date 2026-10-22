@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "85.296116",
-    "wall":  2.7,
+    "lp":  "24.634203",
+    "wall":  7.1,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  11,
-    "other_cpu_max":  11,
-    "other_top":  "claude",
-    "flag":  "",
-    "start":  "2026-10-22T18:23:04"
+    "other_cpu_mean":  20,
+    "other_cpu_max":  20,
+    "other_top":  "msedgewebview2 claude TeamViewer_Desktop",
+    "flag":  "OTHER_LOAD",
+    "start":  "2026-10-22T21:22:21"
 }

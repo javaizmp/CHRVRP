@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "87.173801",
-    "wall":  0.9,
+    "lp":  "31.638946",
+    "wall":  1.3,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  10,
-    "other_cpu_max":  10,
-    "other_top":  "claude MsMpEng",
+    "other_cpu_mean":  5,
+    "other_cpu_max":  5,
+    "other_top":  "WmiPrvSE",
     "flag":  "",
-    "start":  "2026-10-22T18:22:26"
+    "start":  "2026-10-22T21:21:41"
 }

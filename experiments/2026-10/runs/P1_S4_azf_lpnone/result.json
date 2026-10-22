@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "98.247142",
-    "wall":  0.9,
+    "lp":  "30.544225",
+    "wall":  1.4,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  5,
-    "other_cpu_max":  5,
-    "other_top":  "claude",
-    "flag":  "",
-    "start":  "2026-10-22T18:22:31"
+    "other_cpu_mean":  27,
+    "other_cpu_max":  27,
+    "other_top":  "claude TeamViewer_Desktop WmiPrvSE",
+    "flag":  "OTHER_LOAD",
+    "start":  "2026-10-22T21:21:44"
 }

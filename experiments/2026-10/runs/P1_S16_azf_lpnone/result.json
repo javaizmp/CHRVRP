@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "77.015190",
-    "wall":  2,
+    "lp":  "21.467163",
+    "wall":  6.8,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  5,
-    "other_cpu_max":  5,
-    "other_top":  "WmiPrvSE",
-    "flag":  "",
-    "start":  "2026-10-22T18:23:16"
+    "other_cpu_mean":  32,
+    "other_cpu_max":  32,
+    "other_top":  "msedgewebview2 WmiPrvSE",
+    "flag":  "OTHER_LOAD",
+    "start":  "2026-10-22T21:22:37"
 }
