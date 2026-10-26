@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "90.070912",
-    "wall":  0.9,
+    "wall":  1,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  11,
-    "other_cpu_max":  11,
-    "other_top":  "claude",
+    "other_cpu_mean":  5,
+    "other_cpu_max":  5,
+    "other_top":  "csrss",
     "flag":  "",
-    "start":  "2026-10-22T18:22:40"
+    "start":  "2026-10-26T10:34:41"
 }

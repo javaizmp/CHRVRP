@@ -18,9 +18,9 @@
     "wall":  5.5,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  51,
-    "other_cpu_max":  51,
-    "other_top":  "TenorshareUpdateAssistantService",
+    "other_cpu_mean":  20,
+    "other_cpu_max":  20,
+    "other_top":  "msedgewebview2 NVDisplay.Container",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:21:32"
+    "start":  "2026-10-26T10:36:18"
 }

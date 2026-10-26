@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "31.811840",
-    "wall":  1.2,
+    "lp":  "33.957399",
+    "wall":  1.4,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  75,
-    "other_cpu_max":  75,
-    "other_top":  "msedgewebview2 System TenorshareUpdateAssistantService",
+    "other_cpu_mean":  30,
+    "other_cpu_max":  30,
+    "other_top":  "msedgewebview2 MsMpEng dwm",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:13:49"
+    "start":  "2026-10-26T10:32:08"
 }

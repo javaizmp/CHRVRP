@@ -1,0 +1,39 @@
+Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_Threads                                 6
+CPXPARAM_RandomSeed                              10
+CPXPARAM_TimeLimit                               3600
+Parallel mode: deterministic, using up to 6 threads for concurrent optimization:
+ * Starting dual Simplex on 1 thread...
+ * Starting Barrier on 4 threads...
+ * Starting primal Simplex on 1 thread...
+Tried aggregator 1 time.
+LP Presolve eliminated 3498 rows and 4023 columns.
+Aggregator did 6 substitutions.
+Reduced LP has 5463 rows, 4792 columns, and 24092 nonzeros.
+Presolve time = 0.02 sec. (13.86 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =            90.432625
+Perturbation started.
+Iteration:   101   Dual objective     =            90.432625
+Iteration:   243   Dual objective     =            90.432630
+Iteration:   361   Dual objective     =            90.432633
+Iteration:   493   Dual objective     =            90.432636
+Iteration:   619   Dual objective     =            90.432638
+Iteration:   727   Dual objective     =            90.432639
+Iteration:   834   Dual objective     =            90.432641
+Iteration:   926   Dual objective     =            90.432642
+Iteration:  1039   Dual objective     =            90.432643
+Iteration:  1141   Dual objective     =            90.432644
+Iteration:  1236   Dual objective     =            90.432645
+Iteration:  1325   Dual objective     =            90.432646
+Iteration:  1422   Dual objective     =            90.432647
+Iteration:  1520   Dual objective     =            90.432647
+Iteration:  1609   Dual objective     =            90.432648
+Iteration:  1701   Dual objective     =            90.432648
+Iteration:  1790   Dual objective     =            90.432649
+Removing perturbation.
+
+Primal simplex solved model.
+

@@ -1203,3 +1203,165 @@
 [2026-10-22 21:23] 20/20 P1_S20_azf_lpnone
     -> status=1 obj= time= wall=6s other_cpu=5/5 
 [2026-10-22 21:23] runner finished
+[2026-10-26 10:31] 1/20 P1_S1_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=16/16 OTHER_LOAD
+[2026-10-26 10:31] 2/20 P1_S2_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=24/24 OTHER_LOAD
+[2026-10-26 10:32] 3/20 P1_S3_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=102/102 OTHER_LOAD
+[2026-10-26 10:32] 4/20 P1_S4_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=16/16 OTHER_LOAD
+[2026-10-26 10:32] 5/20 P1_S5_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-26 10:32] 6/20 P1_S6_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=20/20 OTHER_LOAD
+[2026-10-26 10:32] 7/20 P1_S7_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=0/0 
+[2026-10-26 10:32] 8/20 P1_S8_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=30/30 OTHER_LOAD
+[2026-10-26 10:32] 9/20 P1_S9_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=6/6 
+[2026-10-26 10:32] 10/20 P1_S10_zfdefault_lp4
+    -> status=1 obj= time= wall=1s other_cpu=0/0 
+[2026-10-26 10:32] 11/20 P1_S11_zfdefault_lp4
+    -> status=1 obj= time= wall=13s other_cpu=0/0 
+[2026-10-26 10:32] 12/20 P1_S12_zfdefault_lp4
+    -> status=1 obj= time= wall=11s other_cpu=38/38 OTHER_LOAD
+[2026-10-26 10:32] 13/20 P1_S13_zfdefault_lp4
+    -> status=1 obj= time= wall=12s other_cpu=24/24 OTHER_LOAD
+[2026-10-26 10:32] 14/20 P1_S14_zfdefault_lp4
+    -> status=1 obj= time= wall=10s other_cpu=62/62 OTHER_LOAD
+[2026-10-26 10:33] 15/20 P1_S15_zfdefault_lp4
+    -> status=1 obj= time= wall=12s other_cpu=15/15 
+[2026-10-26 10:33] 16/20 P1_S16_zfdefault_lp4
+    -> status=1 obj= time= wall=13s other_cpu=5/5 
+[2026-10-26 10:33] 17/20 P1_S17_zfdefault_lp4
+    -> status=1 obj= time= wall=10s other_cpu=5/5 
+[2026-10-26 10:33] 18/20 P1_S18_zfdefault_lp4
+    -> status=1 obj= time= wall=11s other_cpu=16/16 OTHER_LOAD
+[2026-10-26 10:33] 19/20 P1_S19_zfdefault_lp4
+    -> status=1 obj= time= wall=10s other_cpu=18/18 OTHER_LOAD
+[2026-10-26 10:33] 20/20 P1_S20_zfdefault_lp4
+    -> status=1 obj= time= wall=12s other_cpu=6/6 
+[2026-10-26 10:34] runner finished
+[2026-10-26 10:34] 1/60 P1_S1_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=113/113 OTHER_LOAD
+[2026-10-26 10:34] 2/60 P1_S1_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=116/116 OTHER_LOAD
+[2026-10-26 10:34] 3/60 P1_S1_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=12/12 
+[2026-10-26 10:34] 4/60 P1_S2_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=15/15 
+[2026-10-26 10:34] 5/60 P1_S2_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=27/27 OTHER_LOAD
+[2026-10-26 10:34] 6/60 P1_S2_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-26 10:34] 7/60 P1_S3_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=0/0 
+[2026-10-26 10:34] 8/60 P1_S3_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=18/18 OTHER_LOAD
+[2026-10-26 10:34] 9/60 P1_S3_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=0/0 
+[2026-10-26 10:34] 10/60 P1_S4_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-26 10:34] 11/60 P1_S4_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=30/30 OTHER_LOAD
+[2026-10-26 10:34] 12/60 P1_S4_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=0/0 
+[2026-10-26 10:34] 13/60 P1_S5_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=56/56 OTHER_LOAD
+[2026-10-26 10:34] 14/60 P1_S5_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=287/287 OTHER_LOAD
+[2026-10-26 10:34] 15/60 P1_S5_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=78/78 OTHER_LOAD
+[2026-10-26 10:34] 16/60 P1_S6_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-26 10:34] 17/60 P1_S6_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=15/15 
+[2026-10-26 10:34] 18/60 P1_S6_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=53/53 OTHER_LOAD
+[2026-10-26 10:34] 19/60 P1_S7_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=16/16 OTHER_LOAD
+[2026-10-26 10:34] 20/60 P1_S7_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-26 10:34] 21/60 P1_S7_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=18/18 OTHER_LOAD
+[2026-10-26 10:34] 22/60 P1_S8_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=18/18 OTHER_LOAD
+[2026-10-26 10:34] 23/60 P1_S8_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=16/16 OTHER_LOAD
+[2026-10-26 10:34] 24/60 P1_S8_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=0/0 
+[2026-10-26 10:34] 25/60 P1_S9_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=22/22 OTHER_LOAD
+[2026-10-26 10:34] 26/60 P1_S9_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=15/15 
+[2026-10-26 10:34] 27/60 P1_S9_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=28/28 OTHER_LOAD
+[2026-10-26 10:34] 28/60 P1_S10_zxdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-26 10:34] 29/60 P1_S10_azf_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=0/0 
+[2026-10-26 10:34] 30/60 P1_S10_zfdefault_lp1234
+    -> status=1 obj= time= wall=1s other_cpu=5/5 
+[2026-10-26 10:34] 31/60 P1_S11_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=0/0 
+[2026-10-26 10:35] 32/60 P1_S11_azf_lp1234
+    -> status=1 obj= time= wall=4s other_cpu=12/12 
+[2026-10-26 10:35] 33/60 P1_S11_zfdefault_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=6/6 
+[2026-10-26 10:35] 34/60 P1_S12_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=22/22 OTHER_LOAD
+[2026-10-26 10:35] 35/60 P1_S12_azf_lp1234
+    -> status=1 obj= time= wall=3s other_cpu=5/5 
+[2026-10-26 10:35] 36/60 P1_S12_zfdefault_lp1234
+    -> status=1 obj= time= wall=9s other_cpu=0/0 
+[2026-10-26 10:35] 37/60 P1_S13_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=0/0 
+[2026-10-26 10:35] 38/60 P1_S13_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=10/10 
+[2026-10-26 10:35] 39/60 P1_S13_zfdefault_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=5/5 
+[2026-10-26 10:35] 40/60 P1_S14_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=16/16 OTHER_LOAD
+[2026-10-26 10:35] 41/60 P1_S14_azf_lp1234
+    -> status=1 obj= time= wall=3s other_cpu=20/20 OTHER_LOAD
+[2026-10-26 10:35] 42/60 P1_S14_zfdefault_lp1234
+    -> status=1 obj= time= wall=7s other_cpu=10/10 
+[2026-10-26 10:36] 43/60 P1_S15_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=10/10 
+[2026-10-26 10:36] 44/60 P1_S15_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=0/0 
+[2026-10-26 10:36] 45/60 P1_S15_zfdefault_lp1234
+    -> status=1 obj= time= wall=8s other_cpu=27/27 OTHER_LOAD
+[2026-10-26 10:36] 46/60 P1_S16_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=20/20 OTHER_LOAD
+[2026-10-26 10:36] 47/60 P1_S16_azf_lp1234
+    -> status=1 obj= time= wall=3s other_cpu=21/21 OTHER_LOAD
+[2026-10-26 10:36] 48/60 P1_S16_zfdefault_lp1234
+    -> status=1 obj= time= wall=9s other_cpu=0/0 
+[2026-10-26 10:36] 49/60 P1_S17_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=0/0 
+[2026-10-26 10:36] 50/60 P1_S17_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=28/28 OTHER_LOAD
+[2026-10-26 10:36] 51/60 P1_S17_zfdefault_lp1234
+    -> status=1 obj= time= wall=8s other_cpu=60/60 OTHER_LOAD
+[2026-10-26 10:36] 52/60 P1_S18_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=0/0 
+[2026-10-26 10:36] 53/60 P1_S18_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=11/11 
+[2026-10-26 10:37] 54/60 P1_S18_zfdefault_lp1234
+    -> status=1 obj= time= wall=9s other_cpu=20/20 OTHER_LOAD
+[2026-10-26 10:37] 55/60 P1_S19_zxdefault_lp1234
+    -> status=1 obj= time= wall=6s other_cpu=0/0 
+[2026-10-26 10:37] 56/60 P1_S19_azf_lp1234
+    -> status=1 obj= time= wall=3s other_cpu=0/0 
+[2026-10-26 10:37] 57/60 P1_S19_zfdefault_lp1234
+    -> status=1 obj= time= wall=9s other_cpu=5/5 
+[2026-10-26 10:37] 58/60 P1_S20_zxdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=21/21 OTHER_LOAD
+[2026-10-26 10:37] 59/60 P1_S20_azf_lp1234
+    -> status=1 obj= time= wall=2s other_cpu=11/11 
+[2026-10-26 10:37] 60/60 P1_S20_zfdefault_lp1234
+    -> status=1 obj= time= wall=5s other_cpu=10/10 
+[2026-10-26 10:37] runner finished

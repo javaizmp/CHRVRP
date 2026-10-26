@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "101.703296",
-    "wall":  5.3,
+    "wall":  5.1,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  207,
-    "other_cpu_max":  207,
-    "other_top":  "System TenorshareUpdateAssistantService WmiPrvSE",
+    "other_cpu_mean":  21,
+    "other_cpu_max":  21,
+    "other_top":  "WindowsTerminal WmiPrvSE dwm",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:26:56"
+    "start":  "2026-10-26T10:37:29"
 }

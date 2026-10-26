@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "23.906869",
-    "wall":  11.9,
+    "lp":  "24.537531",
+    "wall":  12.4,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  103,
-    "other_cpu_max":  103,
-    "other_top":  "services System TenorshareUpdateAssistantService",
-    "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:27:49"
+    "other_cpu_mean":  6,
+    "other_cpu_max":  6,
+    "other_top":  "WmiPrvSE",
+    "flag":  "",
+    "start":  "2026-10-26T10:33:59"
 }

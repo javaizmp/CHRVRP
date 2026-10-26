@@ -18,9 +18,9 @@
     "wall":  1.2,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  80,
-    "other_cpu_max":  80,
-    "other_top":  "System TenorshareUpdateAssistantService WmiPrvSE",
-    "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:14:21"
+    "other_cpu_mean":  5,
+    "other_cpu_max":  5,
+    "other_top":  "claude",
+    "flag":  "",
+    "start":  "2026-10-26T10:34:56"
 }

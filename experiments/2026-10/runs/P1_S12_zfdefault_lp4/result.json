@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "26.986466",
-    "wall":  13.1,
+    "lp":  "27.603754",
+    "wall":  11.1,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  49,
-    "other_cpu_max":  49,
-    "other_top":  "MsMpEng TenorshareUpdateAssistantService WmiPrvSE",
+    "other_cpu_mean":  38,
+    "other_cpu_max":  38,
+    "other_top":  "msedgewebview2 AdobeCollabSync",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:16:42"
+    "start":  "2026-10-26T10:32:26"
 }

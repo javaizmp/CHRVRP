@@ -18,9 +18,9 @@
     "wall":  1.2,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  97,
-    "other_cpu_max":  97,
-    "other_top":  "System TenorshareUpdateAssistantService MsMpEng",
-    "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:12:18"
+    "other_cpu_mean":  5,
+    "other_cpu_max":  5,
+    "other_top":  "texstudio",
+    "flag":  "",
+    "start":  "2026-10-26T10:34:20"
 }

@@ -838,23 +838,24 @@ def usage(filename1,runcode,capacitym):
 
             if lowerb4 == 1 and mu >= 1:
                 print('Lower Bound 4 Active (mu=%d)' % mu)
+                # LB4 (paper): z >= sum_s (t(k_d,s) + t_{s,mu}) w^k_s, one row per vehicle
                 for v in range(len(self.Nv)):
+                    thevars = []
+                    thecoeffs = []
                     for i in range(len(self.Ns)):
                         if mu >= 2:
                             lbval3 = self.linkdistances(mode=3, p=self.N[i])
                         else:
                             lbval3 = min(self.dist[i][self.N.index(j)] for j in self.Nd)
-                        thevars = []
-                        thecoeffs = []
                         thevars.append(self.w[v][i])
-                        thecoeffs.append(self.dist[i][self.s + self.d + v] + lbval3)
-                        thevars = thevars + self.z
-                        thecoeffs = thecoeffs + [-1]
-                        constrname = "C16b_" + str(self.Nv[v]) + str(self.Ns[i])
-                        self.problem.linear_constraints.add(names=[constrname],
-                                                            lin_expr=[cplex.SparsePair(thevars, thecoeffs)],
-                                                            senses=["L"],
-                                                            rhs=[0.0])
+                        thecoeffs.append(self.dist[self.s + self.d + v][i] + lbval3)
+                    thevars = thevars + self.z
+                    thecoeffs = thecoeffs + [-1]
+                    constrname = "C16b_" + str(self.Nv[v])
+                    self.problem.linear_constraints.add(names=[constrname],
+                                                        lin_expr=[cplex.SparsePair(thevars, thecoeffs)],
+                                                        senses=["L"],
+                                                        rhs=[0.0])
 
         def addFlowVars(self):
             # Create variables f(k,i, j)

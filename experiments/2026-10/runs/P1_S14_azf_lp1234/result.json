@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "85.296116",
-    "wall":  2.6,
+    "wall":  2.5,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  5,
-    "other_cpu_max":  5,
-    "other_top":  "WmiPrvSE",
-    "flag":  "",
-    "start":  "2026-10-22T18:23:07"
+    "other_cpu_mean":  20,
+    "other_cpu_max":  20,
+    "other_top":  "msedgewebview2 NVDisplay.Container dwm",
+    "flag":  "OTHER_LOAD",
+    "start":  "2026-10-26T10:35:51"
 }

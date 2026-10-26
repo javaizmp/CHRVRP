@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "73.326374",
-    "wall":  7.9,
+    "wall":  8.1,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  110,
-    "other_cpu_max":  110,
-    "other_top":  "TenorshareUpdateAssistantService System",
+    "other_cpu_mean":  27,
+    "other_cpu_max":  27,
+    "other_top":  "msedgewebview2 System texstudio",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:21:12"
+    "start":  "2026-10-26T10:36:09"
 }

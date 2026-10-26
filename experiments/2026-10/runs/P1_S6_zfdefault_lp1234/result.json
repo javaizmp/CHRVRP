@@ -18,9 +18,9 @@
     "wall":  1.2,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  124,
-    "other_cpu_max":  124,
-    "other_top":  "svchost System TenorshareUpdateAssistantService",
+    "other_cpu_mean":  53,
+    "other_cpu_max":  53,
+    "other_top":  "csrss msedgewebview2 nordvpn-service",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:13:20"
+    "start":  "2026-10-26T10:34:38"
 }

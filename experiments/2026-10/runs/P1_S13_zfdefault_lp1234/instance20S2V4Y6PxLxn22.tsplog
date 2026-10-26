@@ -8,57 +8,50 @@ Parallel mode: deterministic, using up to 6 threads for concurrent optimization:
  * Starting Barrier on 4 threads...
  * Starting primal Simplex on 1 thread...
 Tried aggregator 1 time.
-LP Presolve eliminated 19328 rows and 21540 columns.
+LP Presolve eliminated 19322 rows and 21540 columns.
 Aggregator did 8 substitutions.
-Reduced LP has 43290 rows, 40749 columns, and 204080 nonzeros.
-Presolve time = 0.12 sec. (109.04 ticks)
+Reduced LP has 43292 rows, 40749 columns, and 204088 nonzeros.
+Presolve time = 0.11 sec. (109.04 ticks)
 
 Iteration log . . .
 Iteration:     1   Dual objective     =            80.365779
 Perturbation started.
 Iteration:   101   Dual objective     =            80.365779
-Iteration:   488   Dual objective     =            80.365784
-Iteration:   797   Dual objective     =            80.365787
-Iteration:  1074   Dual objective     =            80.365788
-Iteration:  1388   Dual objective     =            80.365790
-Iteration:  1672   Dual objective     =            80.365791
-Iteration:  1967   Dual objective     =            80.365793
-Iteration:  2256   Dual objective     =            80.365796
-Iteration:  2564   Dual objective     =            80.365798
-Iteration:  2825   Dual objective     =            80.365800
-Iteration:  3093   Dual objective     =            80.365803
-Iteration:  3358   Dual objective     =            80.365805
-Iteration:  3666   Dual objective     =            80.365807
-Iteration:  3933   Dual objective     =            80.365809
-Iteration:  4202   Dual objective     =            80.365810
-Iteration:  4473   Dual objective     =            80.365811
-Iteration:  4753   Dual objective     =            80.365813
-Iteration:  5019   Dual objective     =            80.365815
-Iteration:  5297   Dual objective     =            80.365816
-Iteration:  5572   Dual objective     =            80.365818
-Iteration:  5820   Dual objective     =            80.365820
-Iteration:  6087   Dual objective     =            80.365821
-Iteration:  6374   Dual objective     =            80.365822
-Iteration:  6613   Dual objective     =            80.365823
-Iteration:  6866   Dual objective     =            80.365824
-Iteration:  7096   Dual objective     =            80.365824
-Iteration:  7333   Dual objective     =            80.365825
-Iteration:  7563   Dual objective     =            80.365825
-Iteration:  7818   Dual objective     =            80.365826
-Iteration:  8065   Dual objective     =            80.365826
-Iteration:  8308   Dual objective     =            80.365826
-Iteration:  8560   Dual objective     =            80.365827
-Iteration:  8810   Dual objective     =            80.365828
-Iteration:  9059   Dual objective     =            80.365828
-Iteration:  9300   Dual objective     =            80.365828
-Iteration:  9526   Dual objective     =            80.365829
-Iteration:  9770   Dual objective     =            80.365829
-Iteration: 10008   Dual objective     =            80.365829
-Iteration: 10233   Dual objective     =            80.365829
-Iteration: 10479   Dual objective     =            80.365830
-Iteration: 10721   Dual objective     =            80.365830
-Iteration: 10962   Dual objective     =            80.365830
-Iteration: 11203   Dual objective     =            80.365830
+Iteration:   483   Dual objective     =            80.365785
+Iteration:   822   Dual objective     =            80.365787
+Iteration:  1094   Dual objective     =            80.365789
+Iteration:  1407   Dual objective     =            80.365792
+Iteration:  1755   Dual objective     =            80.365794
+Iteration:  2028   Dual objective     =            80.365796
+Iteration:  2350   Dual objective     =            80.365799
+Iteration:  2640   Dual objective     =            80.365802
+Iteration:  2904   Dual objective     =            80.365803
+Iteration:  3149   Dual objective     =            80.365804
+Iteration:  3467   Dual objective     =            80.365807
+Iteration:  3760   Dual objective     =            80.365809
+Iteration:  4008   Dual objective     =            80.365810
+Iteration:  4289   Dual objective     =            80.365812
+Iteration:  4605   Dual objective     =            80.365813
+Iteration:  4878   Dual objective     =            80.365814
+Iteration:  5160   Dual objective     =            80.365816
+Iteration:  5450   Dual objective     =            80.365818
+Iteration:  5701   Dual objective     =            80.365818
+Iteration:  5929   Dual objective     =            80.365819
+Iteration:  6187   Dual objective     =            80.365820
+Iteration:  6435   Dual objective     =            80.365820
+Iteration:  6684   Dual objective     =            80.365821
+Iteration:  6941   Dual objective     =            80.365822
+Iteration:  7183   Dual objective     =            80.365822
+Iteration:  7416   Dual objective     =            80.365823
+Iteration:  7660   Dual objective     =            80.365823
+Iteration:  7924   Dual objective     =            80.365824
+Iteration:  8169   Dual objective     =            80.365825
+Iteration:  8425   Dual objective     =            80.365825
+Iteration:  8696   Dual objective     =            80.365825
+Iteration:  8955   Dual objective     =            80.365826
+Iteration:  9213   Dual objective     =            80.365826
+Iteration:  9440   Dual objective     =            80.365826
+Iteration:  9689   Dual objective     =            80.365827
 Removing perturbation.
 
 Primal simplex solved model.

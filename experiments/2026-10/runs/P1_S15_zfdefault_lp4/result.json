@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "23.265236",
-    "wall":  12.7,
+    "lp":  "23.963660",
+    "wall":  12.2,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  89,
-    "other_cpu_max":  89,
-    "other_top":  "System TenorshareUpdateAssistantService WmiPrvSE",
-    "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:20:59"
+    "other_cpu_mean":  15,
+    "other_cpu_max":  15,
+    "other_top":  "System claude texstudio",
+    "flag":  "",
+    "start":  "2026-10-26T10:33:00"
 }

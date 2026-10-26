@@ -18,9 +18,9 @@
     "wall":  1.2,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  113,
-    "other_cpu_max":  113,
-    "other_top":  "msedgewebview2 System TenorshareUpdateAssistantService",
-    "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:14:10"
+    "other_cpu_mean":  5,
+    "other_cpu_max":  5,
+    "other_top":  "WmiPrvSE",
+    "flag":  "",
+    "start":  "2026-10-26T10:34:53"
 }

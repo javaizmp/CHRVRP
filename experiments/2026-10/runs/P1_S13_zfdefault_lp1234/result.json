@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "80.365779",
-    "wall":  7,
+    "wall":  5.7,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  120,
-    "other_cpu_max":  120,
-    "other_top":  "System TenorshareUpdateAssistantService dwm",
-    "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:18:19"
+    "other_cpu_mean":  5,
+    "other_cpu_max":  5,
+    "other_top":  "WmiPrvSE",
+    "flag":  "",
+    "start":  "2026-10-26T10:35:39"
 }

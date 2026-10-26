@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "23.246582",
-    "wall":  11.7,
+    "lp":  "24.037567",
+    "wall":  11.6,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  84,
-    "other_cpu_max":  84,
-    "other_top":  "System TenorshareUpdateAssistantService WmiPrvSE",
+    "other_cpu_mean":  24,
+    "other_cpu_max":  24,
+    "other_top":  "msedgewebview2 claude System",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:18:07"
+    "start":  "2026-10-26T10:32:37"
 }

@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "98.701124",
-    "wall":  5.3,
+    "wall":  5,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  102,
-    "other_cpu_max":  102,
-    "other_top":  "msedgewebview2 TenorshareUpdateAssistantService System",
+    "other_cpu_mean":  16,
+    "other_cpu_max":  16,
+    "other_top":  "msedgewebview2 System",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:18:38"
+    "start":  "2026-10-26T10:35:45"
 }

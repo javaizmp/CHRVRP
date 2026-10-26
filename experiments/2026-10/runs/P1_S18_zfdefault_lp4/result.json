@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "25.105756",
-    "wall":  13.9,
+    "lp":  "25.532453",
+    "wall":  10.8,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  68,
-    "other_cpu_max":  68,
-    "other_top":  "svchost System TenorshareUpdateAssistantService",
+    "other_cpu_mean":  16,
+    "other_cpu_max":  16,
+    "other_top":  "claude System",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:25:01"
+    "start":  "2026-10-26T10:33:37"
 }

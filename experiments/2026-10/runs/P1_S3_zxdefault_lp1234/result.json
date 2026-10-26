@@ -18,9 +18,9 @@
     "wall":  1.2,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  67,
-    "other_cpu_max":  67,
-    "other_top":  "svchost MsMpEng TenorshareUpdateAssistantService",
-    "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:12:23"
+    "other_cpu_mean":  0,
+    "other_cpu_max":  0,
+    "other_top":  "",
+    "flag":  "",
+    "start":  "2026-10-26T10:34:21"
 }

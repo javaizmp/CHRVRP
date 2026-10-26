@@ -8,8 +8,8 @@ Parallel mode: deterministic, using up to 6 threads for concurrent optimization:
  * Starting Barrier on 4 threads...
  * Starting primal Simplex on 1 thread...
 Tried aggregator 1 time.
-LP Presolve eliminated 3936 rows and 4153 columns.
-Reduced LP has 5107 rows, 4218 columns, and 21777 nonzeros.
+LP Presolve eliminated 3932 rows and 4153 columns.
+Reduced LP has 5108 rows, 4218 columns, and 21782 nonzeros.
 Presolve time = 0.00 sec. (12.58 ticks)
 Initializing dual steep norms . . .
 
@@ -17,13 +17,15 @@ Iteration log . . .
 Iteration:     1   Dual objective     =            91.964875
 Perturbation started.
 Iteration:   101   Dual objective     =            91.964875
-Iteration:   217   Dual objective     =            91.964878
-Iteration:   318   Dual objective     =            91.964879
-Iteration:   415   Dual objective     =            91.964880
-Iteration:   507   Dual objective     =            91.964880
-Iteration:   596   Dual objective     =            91.964881
-Iteration:   687   Dual objective     =            91.964881
-Iteration:   781   Dual objective     =            91.964881
+Iteration:   203   Dual objective     =            91.964878
+Iteration:   304   Dual objective     =            91.964879
+Iteration:   402   Dual objective     =            91.964880
+Iteration:   492   Dual objective     =            91.964881
+Iteration:   578   Dual objective     =            91.964881
+Iteration:   668   Dual objective     =            91.964882
+Iteration:   754   Dual objective     =            91.964882
+Iteration:   835   Dual objective     =            91.964882
+Iteration:   923   Dual objective     =            91.964882
 Removing perturbation.
 
 Dual simplex solved model.

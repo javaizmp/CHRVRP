@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "25.855042",
-    "wall":  11.3,
+    "lp":  "27.220494",
+    "wall":  10.5,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  111,
-    "other_cpu_max":  111,
-    "other_top":  "msedgewebview2 System TenorshareUpdateAssistantService",
+    "other_cpu_mean":  62,
+    "other_cpu_max":  62,
+    "other_top":  "csrss System texstudio",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:19:27"
+    "start":  "2026-10-26T10:32:49"
 }

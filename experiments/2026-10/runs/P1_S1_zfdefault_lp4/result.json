@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "32.341915",
-    "wall":  1.2,
+    "lp":  "34.684695",
+    "wall":  1.3,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  60,
-    "other_cpu_max":  60,
-    "other_top":  "System TenorshareUpdateAssistantService OktaVerify",
+    "other_cpu_mean":  16,
+    "other_cpu_max":  16,
+    "other_top":  "claude System",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:12:01"
+    "start":  "2026-10-26T10:31:56"
 }

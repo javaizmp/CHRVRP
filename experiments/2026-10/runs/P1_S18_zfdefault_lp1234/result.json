@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "81.778851",
-    "wall":  8.1,
+    "wall":  8.5,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  74,
-    "other_cpu_max":  74,
-    "other_top":  "TenorshareUpdateAssistantService MsMpEng",
+    "other_cpu_mean":  20,
+    "other_cpu_max":  20,
+    "other_top":  "msedgewebview2 texstudio WmiPrvSE",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:25:15"
+    "start":  "2026-10-26T10:37:02"
 }

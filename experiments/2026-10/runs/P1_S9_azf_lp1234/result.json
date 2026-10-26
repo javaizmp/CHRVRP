@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "93.841736",
-    "wall":  0.9,
+    "wall":  1,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  10,
-    "other_cpu_max":  10,
-    "other_top":  "WmiPrvSE System",
+    "other_cpu_mean":  15,
+    "other_cpu_max":  15,
+    "other_top":  "msedgewebview2 System WmiPrvSE",
     "flag":  "",
-    "start":  "2026-10-22T18:22:45"
+    "start":  "2026-10-26T10:34:50"
 }

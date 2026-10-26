@@ -14,13 +14,13 @@
     "gap":  "",
     "bound":  "",
     "nodes":  "",
-    "lp":  "21.991787",
-    "wall":  11.3,
+    "lp":  "22.495347",
+    "wall":  13.4,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  118,
-    "other_cpu_max":  118,
-    "other_top":  "MsMpEng TenorshareUpdateAssistantService claude",
-    "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:22:23"
+    "other_cpu_mean":  5,
+    "other_cpu_max":  5,
+    "other_top":  "WmiPrvSE",
+    "flag":  "",
+    "start":  "2026-10-26T10:33:13"
 }

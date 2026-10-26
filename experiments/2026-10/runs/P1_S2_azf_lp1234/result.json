@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "87.173801",
-    "wall":  0.9,
+    "wall":  1,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  5,
-    "other_cpu_max":  5,
-    "other_top":  "claude",
-    "flag":  "",
-    "start":  "2026-10-22T18:22:27"
+    "other_cpu_mean":  27,
+    "other_cpu_max":  27,
+    "other_top":  "msedgewebview2 System services",
+    "flag":  "OTHER_LOAD",
+    "start":  "2026-10-26T10:34:18"
 }

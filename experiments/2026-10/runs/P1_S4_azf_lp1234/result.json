@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "98.247142",
-    "wall":  0.9,
+    "wall":  1,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  21,
-    "other_cpu_max":  21,
-    "other_top":  "msedgewebview2 MsMpEng WmiPrvSE",
+    "other_cpu_mean":  30,
+    "other_cpu_max":  30,
+    "other_top":  "System texstudio dwm",
     "flag":  "OTHER_LOAD",
-    "start":  "2026-10-22T18:22:32"
+    "start":  "2026-10-26T10:34:27"
 }

@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "86.616679",
-    "wall":  0.9,
+    "wall":  1,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  5,
-    "other_cpu_max":  5,
-    "other_top":  "WmiPrvSE",
+    "other_cpu_mean":  0,
+    "other_cpu_max":  0,
+    "other_top":  "",
     "flag":  "",
-    "start":  "2026-10-22T18:22:48"
+    "start":  "2026-10-26T10:34:55"
 }

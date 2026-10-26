@@ -8,9 +8,9 @@ Parallel mode: deterministic, using up to 6 threads for concurrent optimization:
  * Starting Barrier on 4 threads...
  * Starting primal Simplex on 1 thread...
 Tried aggregator 1 time.
-LP Presolve eliminated 3565 rows and 4083 columns.
+LP Presolve eliminated 3561 rows and 4083 columns.
 Aggregator did 78 substitutions.
-Reduced LP has 5291 rows, 4660 columns, and 19934 nonzeros.
+Reduced LP has 5292 rows, 4660 columns, and 19939 nonzeros.
 Presolve time = 0.02 sec. (13.18 ticks)
 Initializing dual steep norms . . .
 
@@ -21,19 +21,18 @@ Iteration:   101   Dual objective     =            90.070912
 Iteration:   218   Dual objective     =            90.070915
 Iteration:   327   Dual objective     =            90.070918
 Iteration:   435   Dual objective     =            90.070920
-Iteration:   563   Dual objective     =            90.070921
-Iteration:   672   Dual objective     =            90.070923
-Iteration:   777   Dual objective     =            90.070924
-Iteration:   882   Dual objective     =            90.070925
-Iteration:   986   Dual objective     =            90.070926
-Iteration:  1100   Dual objective     =            90.070928
-Iteration:  1209   Dual objective     =            90.070930
-Iteration:  1317   Dual objective     =            90.070931
-Iteration:  1426   Dual objective     =            90.070933
-Iteration:  1536   Dual objective     =            90.070934
-Iteration:  1645   Dual objective     =            90.070935
-Iteration:  1756   Dual objective     =            90.070937
-Iteration:  1859   Dual objective     =            90.070938
+Iteration:   564   Dual objective     =            90.070921
+Iteration:   673   Dual objective     =            90.070923
+Iteration:   785   Dual objective     =            90.070924
+Iteration:   888   Dual objective     =            90.070925
+Iteration:   991   Dual objective     =            90.070926
+Iteration:  1095   Dual objective     =            90.070927
+Iteration:  1198   Dual objective     =            90.070929
+Iteration:  1292   Dual objective     =            90.070930
+Iteration:  1386   Dual objective     =            90.070931
+Iteration:  1480   Dual objective     =            90.070932
+Iteration:  1585   Dual objective     =            90.070934
+Iteration:  1677   Dual objective     =            90.070935
 Removing perturbation.
 
 Barrier solved model.

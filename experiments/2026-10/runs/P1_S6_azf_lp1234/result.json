@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "76.019542",
-    "wall":  0.9,
+    "wall":  1,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  5,
-    "other_cpu_max":  5,
-    "other_top":  "WmiPrvSE",
+    "other_cpu_mean":  15,
+    "other_cpu_max":  15,
+    "other_top":  "System dwm WmiPrvSE",
     "flag":  "",
-    "start":  "2026-10-22T18:22:37"
+    "start":  "2026-10-26T10:34:36"
 }

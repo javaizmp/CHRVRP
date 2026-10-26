@@ -8,10 +8,10 @@ Parallel mode: deterministic, using up to 6 threads for concurrent optimization:
  * Starting Barrier on 4 threads...
  * Starting primal Simplex on 1 thread...
 Tried aggregator 1 time.
-LP Presolve eliminated 3498 rows and 4023 columns.
+LP Presolve eliminated 3494 rows and 4023 columns.
 Aggregator did 6 substitutions.
-Reduced LP has 5463 rows, 4792 columns, and 24092 nonzeros.
-Presolve time = 0.02 sec. (13.87 ticks)
+Reduced LP has 5464 rows, 4792 columns, and 24097 nonzeros.
+Presolve time = 0.00 sec. (13.87 ticks)
 
 Iteration log . . .
 Iteration:     1   Dual objective     =            91.509391

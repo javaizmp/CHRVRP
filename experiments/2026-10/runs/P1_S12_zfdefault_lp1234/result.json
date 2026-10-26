@@ -15,12 +15,12 @@
     "bound":  "",
     "nodes":  "",
     "lp":  "88.545679",
-    "wall":  7.8,
+    "wall":  8.6,
     "exit":  null,
     "killed":  false,
-    "other_cpu_mean":  70,
-    "other_cpu_max":  70,
-    "other_top":  "TenorshareUpdateAssistantService System",
-    "flag":  "OTHER_LOAD",
-    "start":  "2026-10-19T13:16:55"
+    "other_cpu_mean":  0,
+    "other_cpu_max":  0,
+    "other_top":  "",
+    "flag":  "",
+    "start":  "2026-10-26T10:35:22"
 }
