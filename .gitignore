@@ -3,6 +3,9 @@
 __pycache__/
 *.pyc
 
+# IDE settings
+.idea/
+
 # Solver output (.tsprs/.tsplog/.rs/.bp.json/.lp) is written to the working directory.
 # Inside experiments/ it is the raw result of a run and is kept; anywhere else it is a stray.
 /*.lp
